@@ -32,6 +32,7 @@
 ## Blade Shuttle
 
 <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/8c5bc483-a841-4a5f-b3d4-88eee6aab594" />
+<img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" />
 
 ## Actuator Parts
 
