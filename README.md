@@ -8,26 +8,27 @@
 
 <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" />
 
+---
+
 ## Printhead Parts
 
+### E-RV symmetric, without ADXL mount
+<img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f0591dbb-b54e-4164-a51c-628d5fa23eab" />
+<img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/0b5016fc-4d4e-4474-8a28-573623a3efcf" />
 
+### E-RV
+<img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/fcdec962-e639-488a-b0ce-4e65dd0e0810" />
+<img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/53a6515c-c00e-446f-ba3c-386527027c58" />
+
+### P-RPDV2
 <img width="100" alt="P-RPDV2_Front" src="https://github.com/user-attachments/assets/c17a4454-ad56-46f8-adcc-e51d91afd052" />
 <img width="100" alt="P-RPDV2_Back" src="https://github.com/user-attachments/assets/fb0b4b5f-eebd-4d81-81a9-008b8479fcdf" />
 
----
-
+### P-DRG
 <img width="100" alt="P-DRG_Front" src="https://github.com/user-attachments/assets/1fc18809-bdef-406a-8893-f2655e69e011" />
 <img width="100" alt="P-DRG_Back" src="https://github.com/user-attachments/assets/cb0f3d39-ca77-488c-985f-d4c9604fd921" />
 
 ---
-
-<img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/fcdec962-e639-488a-b0ce-4e65dd0e0810" />
-<img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/53a6515c-c00e-446f-ba3c-386527027c58" />
-
----
-
-<img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f0591dbb-b54e-4164-a51c-628d5fa23eab" />
-<img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/0b5016fc-4d4e-4474-8a28-573623a3efcf" />
 
 ## Blade Shuttle
 
