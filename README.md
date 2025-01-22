@@ -13,8 +13,9 @@
 ## Printhead Parts
 
 ### E-RV symmetric, without ADXL mount
-<img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f0591dbb-b54e-4164-a51c-628d5fa23eab" />
-<img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/0b5016fc-4d4e-4474-8a28-573623a3efcf" />
+| <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f0591dbb-b54e-4164-a51c-628d5fa23eab" />
+<img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/0b5016fc-4d4e-4474-8a28-573623a3efcf" /> |
+front back |
 
 ### E-RV
 <img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/fcdec962-e639-488a-b0ce-4e65dd0e0810" />
