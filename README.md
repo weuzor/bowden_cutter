@@ -12,6 +12,7 @@ This modifications enable the Stealthburner to cut filament regardless of toolhe
 
 ### Galileo 2
 | Pic | Part | STL | STEP |
+| :---: | :---: | :---: | :---: |
 | <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" /> | G2E Front Body  | stl | step|
 | a | b | c | d |
 ### Clockwork 2
