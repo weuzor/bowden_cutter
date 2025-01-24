@@ -28,10 +28,8 @@ This modifications enable the Stealthburner to cut filament regardless of toolhe
 ### E-RV symmetric, without ADXL mount
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f26e07c7-f908-46e2-90c3-319bb0e2d7c8" /> 
-<img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/885e5c1f-8065-4ccf-b9a9-b7af91be8f2e" /> | G2E Front Body  | stl | step |
-| <img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/5078bad3-698e-4179-b9c1-45ca5a2eb1b4" />
-<img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/9fa90508-897d-4265-bfb4-c5f339c0262c" /> | G2E Front Body  | stl | step |
+| <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f26e07c7-f908-46e2-90c3-319bb0e2d7c8" /> <img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/885e5c1f-8065-4ccf-b9a9-b7af91be8f2e" /> | G2E Front Body  | stl | step |
+| <img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/5078bad3-698e-4179-b9c1-45ca5a2eb1b4" /> <img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/9fa90508-897d-4265-bfb4-c5f339c0262c" /> | G2E Front Body  | stl | step |
 
 
 ### P-RPDV2
