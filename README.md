@@ -11,28 +11,27 @@ This modifications enable the Stealthburner to cut filament regardless of toolhe
 ## EXTRUDER
 
 ### Galileo 2
-| Pic | Part | STL | STEP |
+| Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" /> | G2E Front Body  | stl | step 
 
 ### Clockwork 2
-| Picture | | | |
+| Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | G2E Front Body  | stl | step |
-| <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | G2E Front Body  | stl | step 
+| <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | G2E Front Body  | stl | step |
 
 ---
 
 ## PRINTHEAD
 
 ### E-RV symmetric, without ADXL mount
-<img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f26e07c7-f908-46e2-90c3-319bb0e2d7c8" />
-<img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/885e5c1f-8065-4ccf-b9a9-b7af91be8f2e" />
-
-
-### E-RV
-<img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/5078bad3-698e-4179-b9c1-45ca5a2eb1b4" />
-<img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/9fa90508-897d-4265-bfb4-c5f339c0262c" />
+| Picture | Description | STL | STEP |
+| :---: | :---: | :---: | :---: |
+| <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f26e07c7-f908-46e2-90c3-319bb0e2d7c8" /> | G2E Front Body  | stl | step |
+| <img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/885e5c1f-8065-4ccf-b9a9-b7af91be8f2e" /> | G2E Front Body  | stl | step |
+| <img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/5078bad3-698e-4179-b9c1-45ca5a2eb1b4" /> | G2E Front Body  | stl | step |
+| <img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/9fa90508-897d-4265-bfb4-c5f339c0262c" /> | G2E Front Body  | stl | step |
 
 
 ### P-RPDV2
