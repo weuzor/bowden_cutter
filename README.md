@@ -28,18 +28,19 @@ This modifications enable the Stealthburner to cut filament regardless of toolhe
 ### E-RV symmetric, without ADXL mount
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f26e07c7-f908-46e2-90c3-319bb0e2d7c8" /> <img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/885e5c1f-8065-4ccf-b9a9-b7af91be8f2e" /> | G2E Front Body  | stl | step |
-| <img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/5078bad3-698e-4179-b9c1-45ca5a2eb1b4" /> <img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/9fa90508-897d-4265-bfb4-c5f339c0262c" /> | G2E Front Body  | stl | step |
+| <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f26e07c7-f908-46e2-90c3-319bb0e2d7c8" /> <img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/885e5c1f-8065-4ccf-b9a9-b7af91be8f2e" /> | G2E Front Body  | front back | front back |
+| <img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/5078bad3-698e-4179-b9c1-45ca5a2eb1b4" /> <img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/9fa90508-897d-4265-bfb4-c5f339c0262c" /> | G2E Front Body  | front back | front back |
 
 
 ### P-RPDV2
-<img width="100" alt="P-RPDV2_Front" src="https://github.com/user-attachments/assets/12312cef-ea5a-4f57-8c93-62cf0aa668e6" />
-
-<img width="100" alt="P-RPDV2_Back" src="https://github.com/user-attachments/assets/5e2eb361-e8f2-40f8-964a-880e0bdca1bf" />
+| Picture | Description | STL | STEP |
+| :---: | :---: | :---: | :---: |
+| <img width="100" alt="P-RPDV2_Front" src="https://github.com/user-attachments/assets/12312cef-ea5a-4f57-8c93-62cf0aa668e6" /> <img width="100" alt="P-RPDV2_Back" src="https://github.com/user-attachments/assets/5e2eb361-e8f2-40f8-964a-880e0bdca1bf" /> | G2E Front Body  | front back | front back |
 
 ### P-DRG
-<img width="100" alt="P-DRG_Front" src="https://github.com/user-attachments/assets/900afa84-4165-4a2c-becd-abb6d53780e5" />
-<img width="100" alt="P-DRG_Back" src="https://github.com/user-attachments/assets/e7910e98-b0cc-4afe-924f-38e42218f14a" />
+| Picture | Description | STL | STEP |
+| :---: | :---: | :---: | :---: |
+| <img width="100" alt="P-DRG_Front" src="https://github.com/user-attachments/assets/900afa84-4165-4a2c-becd-abb6d53780e5" /> <img width="100" alt="P-DRG_Back" src="https://github.com/user-attachments/assets/e7910e98-b0cc-4afe-924f-38e42218f14a" /> | G2E Front Body  | front back | front back |
 
 ---
 
