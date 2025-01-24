@@ -12,8 +12,8 @@ Following modifications enable the Stealthburner to cut filament regardless of t
 ### Clockwork 2
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | CW2 Front Body with ECAS, two steel ball type filament sensors and bowden cutter tube routing. Compatible with the new motor plate and ecas latch | stl | step |
-| <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | CW2 Front Body with ECAS, two steel ball type filament sensors and bowden cutter tube routing. Compatible with the old motor plate and ecas latch | stl | step |
+| <img width="120" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | CW2 Front Body with ECAS, two steel ball type filament sensors and bowden cutter tube routing. Compatible with the new motor plate and ecas latch | stl | step |
+| <img width="120" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | CW2 Front Body with ECAS, two steel ball type filament sensors and bowden cutter tube routing. Compatible with the old motor plate and ecas latch | stl | step |
 
 ---
 
