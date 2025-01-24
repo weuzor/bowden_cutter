@@ -4,13 +4,17 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" /> | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
 
-## G2E Extruder Parts
+
+## EXTRUDER
+### G2E Extruder Parts
 
 <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" />
+<img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/c3606b50-1440-4e86-add9-cc9d07af0388" />
+<img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/858aed2d-fef2-484a-838f-71170b88c1a8" />
 
 ---
 
-## Printhead Parts
+## PRINTHEAD
 
 ### E-RV symmetric, without ADXL mount
 <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f0591dbb-b54e-4164-a51c-628d5fa23eab" />
