@@ -11,8 +11,10 @@
 <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" />
 
 ### Clockwork 2 Extruder
-<img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/c3606b50-1440-4e86-add9-cc9d07af0388" />
-<img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/858aed2d-fef2-484a-838f-71170b88c1a8" />
+
+
+<img width="920" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" />
+<img width="920" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" />
 
 ---
 
