@@ -1,4 +1,5 @@
-# Bowden Cutter Mod for Stealthburners with Galileo 2 Extruder
+# Integrated Bowden Cutter for Voron Stealthburner
+
 
 | Thumbnail | STL | STEP | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -6,13 +7,11 @@
 
 
 ## EXTRUDER
-### Galileo 2 Extruder
 
+### Galileo 2
 <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" />
 
-### Clockwork 2 Extruder
-
-
+### Clockwork 2
 <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" />
 <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" />
 
@@ -42,11 +41,11 @@
 
 ---
 
-## Blade Shuttle
+## BLADE SHUTTLE
 
 <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" />
 
-## Actuator Parts
+## ACTUATOR
 
 <img width="100" alt="Servo_Frame_Mount_Mirrored" src="https://github.com/user-attachments/assets/6a947454-1792-4077-9af6-5da123a04a85" />
 <img width="100" alt="Servo_Frame_Mount" src="https://github.com/user-attachments/assets/0e193ddf-345c-4ca8-8349-a6c4eaba5648" />
