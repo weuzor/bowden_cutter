@@ -16,8 +16,9 @@ This modifications enable the Stealthburner to cut filament regardless of toolhe
 | <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" /> | G2E Front Body  | stl | step 
 
 ### Clockwork 2
-| <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | G2E Front Body  | stl | step |
+||||
 | :---: | :---: | :---: | :---: |
+| <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | G2E Front Body  | stl | step |
 | <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | G2E Front Body  | stl | step 
 
 ---
