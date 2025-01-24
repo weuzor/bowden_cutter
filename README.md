@@ -41,7 +41,7 @@ Following modifications enable the Stealthburner to cut filament regardless of t
 ## BLADE SHUTTLE
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | G2E Front Body  | front back | front back |
+| <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | stl | step |
 
 
 ---
@@ -49,8 +49,8 @@ Following modifications enable the Stealthburner to cut filament regardless of t
 ## ACTUATOR
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="Servo_Frame_Mount_Mirrored" src="https://github.com/user-attachments/assets/6a947454-1792-4077-9af6-5da123a04a85" /> | G2E Front Body  | front back | front back |
-| <img width="100" alt="Servo_Frame_Mount" src="https://github.com/user-attachments/assets/0e193ddf-345c-4ca8-8349-a6c4eaba5648" /> | G2E Front Body  | front back | front back |
-| <img width="100" alt="Servo_Frame_Mount_Clamp_Insert" src="https://github.com/user-attachments/assets/c4f4a299-49c2-4280-9b61-5a2158216f7c" /> | G2E Front Body  | front back | front back |
-| <img width="100" alt="Wire_Puller" src="https://github.com/user-attachments/assets/b636efdd-fa4a-4a45-bc94-c9c16d2ef66e" /> | G2E Front Body  | front back | front back |
+| <img width="100" alt="Servo_Frame_Mount" src="https://github.com/user-attachments/assets/0e193ddf-345c-4ca8-8349-a6c4eaba5648" /> | Actuator servo to frame mount. | stl | step |
+| <img width="100" alt="Servo_Frame_Mount_Mirrored" src="https://github.com/user-attachments/assets/6a947454-1792-4077-9af6-5da123a04a85" /> | G2E Front Body   | stl | step |
+| <img width="100" alt="Servo_Frame_Mount_Clamp_Insert" src="https://github.com/user-attachments/assets/c4f4a299-49c2-4280-9b61-5a2158216f7c" /> | Press fit extrusion slot clamps for the actuator servo mount | stl | step |
+| <img width="100" alt="Wire_Puller" src="https://github.com/user-attachments/assets/b636efdd-fa4a-4a45-bc94-c9c16d2ef66e" /> | wire pulling servo attachment| stl | step |
 
