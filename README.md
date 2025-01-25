@@ -11,7 +11,7 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 ### Galileo 2
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" /> | G2E Front Body with two ball less filament sensors and bowden tube routing | [link](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/G2E/G2E%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors.stl) | [link](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/G2E/G2E%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors.step) | 
+| <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" /> | G2E Front Body with two ball less filament sensors and bowden tube routing | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/G2E/G2E%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/G2E/G2E%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors.step) | 
 
 ### Clockwork 2
 | Picture | Description | STL | STEP |
@@ -45,7 +45,7 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 ## BLADE SHUTTLE
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | stl | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Blade%20Shuttle%20Parts/Shuttle.step) |
+| <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Blade%20Shuttle%20Parts/Shuttle.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Blade%20Shuttle%20Parts/Shuttle.step) |
 
 
 ---
@@ -53,8 +53,8 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 ## ACTUATOR
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="Servo_Frame_Mount" src="https://github.com/user-attachments/assets/0e193ddf-345c-4ca8-8349-a6c4eaba5648" /> | Actuator servo to frame mount | stl | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount.step) |
-| <img width="100" alt="Servo_Frame_Mount_Mirrored" src="https://github.com/user-attachments/assets/6a947454-1792-4077-9af6-5da123a04a85" /> | Actuator servo to frame mount, mirrored   | stl | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_mirrored.step) |
-| <img width="100" alt="Servo_Frame_Mount_Clamp_Insert" src="https://github.com/user-attachments/assets/c4f4a299-49c2-4280-9b61-5a2158216f7c" /> | Press fit extrusion slot clamp inserts for the actuator servo mount | stl | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.step) |
-| <img width="100" alt="Wire_Puller" src="https://github.com/user-attachments/assets/b636efdd-fa4a-4a45-bc94-c9c16d2ef66e" /> | wire pulling servo attachment| stl | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Wire_Puller.step) |
+| <img width="100" alt="Servo_Frame_Mount" src="https://github.com/user-attachments/assets/0e193ddf-345c-4ca8-8349-a6c4eaba5648" /> | Actuator servo to frame mount | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount.step) |
+| <img width="100" alt="Servo_Frame_Mount_Mirrored" src="https://github.com/user-attachments/assets/6a947454-1792-4077-9af6-5da123a04a85" /> | Actuator servo to frame mount, mirrored   | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount_mirrored.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_mirrored.step) |
+| <img width="100" alt="Servo_Frame_Mount_Clamp_Insert" src="https://github.com/user-attachments/assets/c4f4a299-49c2-4280-9b61-5a2158216f7c" /> | Press fit extrusion slot clamp inserts for the actuator servo mount | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.step) |
+| <img width="100" alt="Wire_Puller" src="https://github.com/user-attachments/assets/b636efdd-fa4a-4a45-bc94-c9c16d2ef66e" /> | wire pulling servo attachment| [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Wire_Puller.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Wire_Puller.step) |
 
