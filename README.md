@@ -19,7 +19,7 @@ Following modifications enable the Stealthburner to cut filament regardless of t
 
 ## PRINTHEAD
 
-### E-RV symmetric, without ADXL mount
+### E-RV
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f26e07c7-f908-46e2-90c3-319bb0e2d7c8" /> <img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/885e5c1f-8065-4ccf-b9a9-b7af91be8f2e" /> | Modified E-RV Printhead (symmetric, without ADXL mount) with blade shuttle guiding | front back | front back |
