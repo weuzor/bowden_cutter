@@ -45,7 +45,7 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 ## BLADE SHUTTLE
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | stl | step |
+| <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | stl | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Blade%20Shuttle%20Parts/Shuttle.step) |
 
 
 ---
