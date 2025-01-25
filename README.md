@@ -1,6 +1,10 @@
 # Bowden Filament Cutter for Voron Stealthburner
 
-Following modifications enable the Stealthburner to cut filament regardless of toolhead position and without the need of toolhead movement.
+With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position or movement which comes with quite a few advantages when using a multi material unit, the imho most important being that when printing  with a purge tower the printhead does not have to move away from it during a toolchange.
+
+
+
+ 
 
 ## EXTRUDER
 
