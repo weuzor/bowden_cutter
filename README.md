@@ -45,7 +45,7 @@ Altertnatively a properly tightened countersunk head screw can be used
 * Tie a knot in the 0.6 mm wire and cut it approximately 10 cm longer than the 1mm/2mm PTFE tube (measured from the knot)
 * Check that the OD 4 mm PTFE fits into its recess on top of the printed body. Clear out by hand with a 4mm drill if necessary.
 * Check that the 0.6 mm wire can be inserted in the small holes at the bottom aof the printed body. Clear out by hand with a 1 mm drill if necessary.
-* Push the OD 2 mm PTFE from the top into the printed body until it is fully inserted. Might need a bit of persuasion here and there but is definitely doable. A drop of oil and back and a 2 steps forward one step back movement helps. If you can insert the wire from the opposite side without catching you are there.
+* Push the OD 2 mm PTFE from the top into the printed body until it is fully inserted. Might need a bit of persuasion here and there but is definitely doable. A drop of oil and 2 steps forward one step back movement strategy helps. If you can insert the 0.6 mm wire from the opposite side without catching the PTFE tube you are there.
 * Slide the ID 2mm OD 4mm PTFE over the ID 1 mm OD 2mm PTFE tube and push firmly into its recess in the prited part.
 * Cut the inner PTFE tube flush with the outer tube
 * Push the 0.6 mm wire along the pat shown.
