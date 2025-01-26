@@ -2,9 +2,6 @@
 
 With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position or movement which comes with quite a few advantages when using a multi material unit, the imho most important being that when printing  with a purge tower the printhead does not have to move away from it during a toolchange.
 
-<img width="200" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
-
-<img width="200" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
 
 
  
@@ -31,6 +28,11 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 | <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | Same as above but compatible with the old motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).step) |
 
 ### Assembly
+
+<img width="200" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
+
+<img width="200" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
+
 
 ---
 
