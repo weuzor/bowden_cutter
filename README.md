@@ -42,7 +42,8 @@ Altertnatively a properly tightened countersunk head screw can be used
 ### Assembly
 * Cut the 2mm/4mm PTFE tube to the required length for the installation (depending on printer size and where the actuator will be located).
 * Cut the 1mm/2mm PTFE tube approximately 10 cm longer than the 2mm/4mm tube
-* Tie a knot in the 0.6 mm wire and cut it approximately 10 cm longer than the 1mm/2mm PTFE tube (measured from the knot)
+* Tie a <img width="122" alt="knot" src="https://github.com/user-attachments/assets/8ad570ac-5b05-4ace-afdc-8040dc65e2bd" />
+knot in the 0.6 mm wire and cut it approximately 10 cm longer than the 1mm/2mm PTFE tube (measured from the knot)
 * Check that the OD 4 mm PTFE fits into its recess on top of the printed body. Clear out by hand with a 4mm drill if necessary.
 * Check that the 0.6 mm wire can be inserted in the small holes at the bottom aof the printed body. Clear out by hand with a 1 mm drill if necessary.
 * Push the OD 2 mm PTFE from the top into the printed body until it is fully inserted. Might need a bit of persuasion here and there but is definitely doable. A drop of oil and 2 steps forward one step back movement strategy helps. If you can insert the 0.6 mm wire from the opposite side without catching the PTFE tube you are there.
