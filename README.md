@@ -40,12 +40,12 @@ Altertnatively a properly tightened countersunk head screw can be used
 | <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | CW2 Front Body with ECAS, two 5.5 mm steel ball / D2F filament sensors and bowden cutter tube routing. Compatible with the new motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(new).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(new).step) |
 | <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | Same as above but compatible with the old motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).step) |
 ### Assembly
-Cut the 2mm/4mm PTFE tube to the required length for the installation (depending on printer size and where the actuator will be located).
-Cut the 1mm/2mm PTFE tube approximately 10 cm longer than the 2mm/4mm tube
-Tie a knot in the 0.6 mm wire and cut it approximately 10 cm longer than the 1mm/2mm PTFE tube (measured from the knot)
-Check that the OD 4 mm PTFE fits into the hole on top of the printed body. Clear out by hand with a 4mm drill if necessary.
-Check that the 0.6 mm wire can be inserted in the small holes at the bottom aof the printed body. Clear out by hand with a 1 mm drill if necessary.
-Push the OD 2 mm PTFE from the top into the printed body until it is fully inserted. 
+* Cut the 2mm/4mm PTFE tube to the required length for the installation (depending on printer size and where the actuator will be located).
+* Cut the 1mm/2mm PTFE tube approximately 10 cm longer than the 2mm/4mm tube
+* Tie a knot in the 0.6 mm wire and cut it approximately 10 cm longer than the 1mm/2mm PTFE tube (measured from the knot)
+* Check that the OD 4 mm PTFE fits into the hole on top of the printed body. Clear out by hand with a 4mm drill if necessary.
+* Check that the 0.6 mm wire can be inserted in the small holes at the bottom aof the printed body. Clear out by hand with a 1 mm drill if necessary.
+* Push the OD 2 mm PTFE from the top into the printed body until it is fully inserted. 
 
 
 <img width="300" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
