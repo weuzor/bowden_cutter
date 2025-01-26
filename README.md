@@ -16,7 +16,9 @@ The price to pay is a second PTFE tube coming out of the printhead which is more
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Blade%20Shuttle%20Parts/Shuttle.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Blade%20Shuttle%20Parts/Shuttle.step) |
 ### Assembly
-Break off the blade #4 near the end of the slot, install the heat set insert in printed part and assemble as shown.
+* Break off the blade #4 near the end of the slot
+* Install the heat set insert in the printed part 
+* Assemble as shown. 
 Unfortunately the blade slot width is too small for a M3 screw to fit through, so M2.5 it must be.
 However, the pulley inner diameter is 3 mm. In order to keep the pulley centered either use something like a Brass tube OD 3 mm / ID 2.5 mm, L 3 mm or some heatshrink over the last 3 mm of the srew thread.
 Altertnatively a properly tightened countersunk head screw can be used  
