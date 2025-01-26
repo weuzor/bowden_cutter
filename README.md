@@ -10,7 +10,7 @@ The price to pay is a second PTFE tube coming out of the printhead which is more
 * 1 M2.5 washer
 * 1 M2.5 x 5 x 3.5 heat set insert
 * 1 compression spring 5.5 x 17 mm ([from this sortiment](https://www.amazon.com/dp/B0DF21GRN1/ref=sr_1_1_sspa?__mk_de_DE=ÅMÅŽÕÑ&crid=2AKV6FXLFZY04&dib=eyJ2IjoiMSJ9.B9q0atkenJRq4xFEpuA6kf0xvpWVwtjE_6Jrg8n_wl6NHta9ITOqniu6mMLtZMFY2_GtR4F_p8Hx75KQDkPY7fpfaDna87tC5B3B3hsjJfN4gQ8lqOv1fjgLgXU953trXPpknKVWs0QRSiNBvWAiD5JjdxLaEr9TSl6Sqnwv4ecXGIxPsb15RojaRq2vxIcHnsdGiSbCrEg-Z74QEsWqzqf3JAr6EFOmu-LbFnp-Fyk.SwDMcXsodjg3r6qEAGHaBXy8vgAhajbzSszQWizHb5c&dib_tag=se&keywords=compression+spring&qid=1736647255&sprefix=compression+spring%2Caps%2C199&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
-* 1 blade # 4 (cut or broken off at the end of the slot)
+* 1 Hobby knife blade # 4 (cut or broken off at the end of the slot)
 ### Printed parts
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
@@ -40,9 +40,9 @@ Altertnatively a properly tightened countersunk head screw can be used
 | <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | CW2 Front Body with ECAS, two 5.5 mm steel ball / D2F filament sensors and bowden cutter tube routing. Compatible with the new motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(new).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(new).step) |
 | <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | Same as above but compatible with the old motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).step) |
 ### Assembly
-<img width="200" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
+<img width="300" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
 
-<img width="200" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
+<img width="300" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
 
 ---
 ## PRINTHEAD
