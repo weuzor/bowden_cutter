@@ -2,13 +2,6 @@
 
 With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position or movement which comes with quite a few advantages when using a multi material unit, the imho most important being that when printing  with a purge tower the printhead does not have to move away from it during a toolchange.
 
-## Materials needed for the bowden cutter incl. actuator:
-* PTFE tube 2mm/4mm
-* PTFE Tube 1mm/2mm
-* Nylon coated stranded steel wire 0.6 mm diameter ([amazon](https://www.amazon.com/BENECREAT-120-Feet-0-024inch-7-Strand-Stainless/dp/B07V3S947N/ref=sr_1_1?crid=1BYTPFOE6298L&dib=eyJ2IjoiMSJ9.pXWOElTDcRCUMASCv9CG5wXzqwG73bFkvewBUseXkb4tqkT_feMtAnXleQMdtJwa1oJMVtIszDzXwfPblYfP64tjXdP9F0iR_1J98SfKH-j3-fo3k9ePpBVRJ0csdYJa9CZaTuUSf8O_wQcU24RNqQAZuUvfDrIYvizzCy__HNGWRK7X2O2HsMPVSKmtDl2pop2ThvJM-srOzA1oyOzmC4VnYbJhEU7rtQzXOn9QE80v0H_KpDV_ERNIVkvUmvCNSLtCG5sN_CnxIvamUS2CC-3Q7Xl_GcmsOA9o3AAR-lJFj4jYSLso0E3xXZg1NsyL5WdYJ2gr_x8npbPRsDBxN2HjJLR8NSTjabgi2uYDfdlkFbYhq287YNxPa0I8yPV1dDAeuAxmDDJxgkyBQxIXYs7bOJ3_x4oeutiirFGdfPy9Q2FBzmaN8RU3tMkjiLn7.D-khznNCXsM-Zj6h4FykYFTd3pSIbRoA7DrW9yir5Nc&dib_tag=se&keywords=steel%2Bwire%2B0.6%2Bmm%2Bbenecreat&qid=1736648346&sprefix=steel%2Bwire%2B0.6%2Bmm%2Bbenecreat%2Caps%2C184&sr=8-1&th=1))
-* 1 V623 or 623UU ball bearing (ID 3 mm / OD 10 mm / Width 3 mm) with V-groove or U-groove ([amazon](https://www.amazon.com/Atoplee-3x10x3mm-603VV-Groove-Bearings/dp/B0191I4UU2/ref=sr_1_7?crid=2ESRQYF3V9C1N&dib=eyJ2IjoiMSJ9.eFnag1n-2s4nOGs8pmZJEKJCjXdPcYd3p07rp37MA3-PntTX6teqtT5QpFiAcVkFdbqGQdhNKabmwON-s04V56NQRKq8T_GPhFC7wfU8nxhwW-kYKfMQTWNMRF3BVG-m30QKYs4Cu1sZzZA_NDDpIafII6ODtltIKSgmPrmYCnCGGGCghnwHSEHHA_nSFp6U_mx1yofH8Ygd_EiKF8eeUHIobtI9buBsPuKNOWgoFDs.rGSL3FBz0Vt9S-ZiudwLVzsulJQmN1tLPd17eQok_i0&dib_tag=se&keywords=ball+bearing%233x10x3&qid=1736647854&sprefix=ball+bearing+3x10x3%2Caps%2C179&sr=8-7))
-
-* 1 ECAS Collet
 
 
 
