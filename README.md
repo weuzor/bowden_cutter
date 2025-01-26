@@ -2,7 +2,9 @@
 
 With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position or movement which comes with quite a few advantages when using a multi material unit, the imho most important being that when printing  with a purge tower the printhead does not have to move away from it during a toolchange.
 
+<img width="200" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
 
+<img width="200" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
 
 
  
