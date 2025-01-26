@@ -1,12 +1,14 @@
 # Bowden Filament Cutter for Voron Stealthburner
 
-With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position or movement which comes with quite a few advantages for multi material printing.
+
+
+With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position and and without generating any forces on the xy belts.
 The price to pay is a second PTFE tube coming out of the printhead which is more or less permanently attached to the bowden actuator.
 
----
 <img width="438" alt="toolhead_CW2" src="https://github.com/user-attachments/assets/51eff1ab-1d54-44e3-b260-746bf7f76ad4" />
 <img width="438" alt="toolhead_G2E" src="https://github.com/user-attachments/assets/98eed216-c57a-49ed-b12f-e91e23c47bbf" />
 
+---
 
 ## BLADE SHUTTLE
 ### Required hardware
@@ -56,9 +58,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 * Cut the inner PTFE tube flush with the outer tube
 * Push the 0.6 mm through the long hole at the bottom of the printed part and pull firmly to fully tighten the knot. Clip off the excess wire leaving about 1 mm.
 * After a U-turn push the wire through the PTFE until it comes out the other end
-
 <img width="500" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
-
 <img width="500" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
 
 ---
