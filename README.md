@@ -21,7 +21,7 @@ The price to pay is a second PTFE tube coming out of the printhead which is more
 * Assemble as shown. 
 Unfortunately the blade slot width is too small for a M3 screw to fit through, so M2.5 it must be.
 However, the pulley inner diameter is 3 mm. In order to keep the pulley centered either use something like a Brass tube OD 3 mm / ID 2.5 mm, L 3 mm or some heatshrink over the last 3 mm of the srew thread.
-Altertnatively a properly tightened countersunk head screw can be used  
+Altertnatively, a well tightened countersunk head screw can also be used.
 <img width="300" alt="Blade Shuttle Assembly Option 1" src="https://github.com/user-attachments/assets/db6b5380-9cc0-4790-899d-9d4d9be7db8c" />
 <img width="300" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
 
