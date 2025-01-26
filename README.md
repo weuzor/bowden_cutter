@@ -39,28 +39,23 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 ## PRINTHEAD
 ### Required hardware
 * 1 M3 Nut
-* 
 ### Printed parts
 #### E-RV
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="E-RV (no ADXL)_Front" src="https://github.com/user-attachments/assets/f26e07c7-f908-46e2-90c3-319bb0e2d7c8" /> <img width="100" alt="E-RV (no ADXL)_Back" src="https://github.com/user-attachments/assets/885e5c1f-8065-4ccf-b9a9-b7af91be8f2e" /> | E-RV Printhead (symmetric, no ADXL mount) with blade shuttle guiding | [front](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/E-RV/E-RV%20(no%20ADXL)_Front.stl) [back](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/E-RV/E-RV%20(no%20ADXL)_Back.stl) | [front](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/E-RV/E-RV%20(no%20ADXL)_Front.step) [back](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/E-RV/E-RV%20(no%20ADXL)_Back.step) |
 | <img width="100" alt="E-RV_Front" src="https://github.com/user-attachments/assets/5078bad3-698e-4179-b9c1-45ca5a2eb1b4" /> <img width="100" alt="E-RV_Back" src="https://github.com/user-attachments/assets/9fa90508-897d-4265-bfb4-c5f339c0262c" /> | Stock E-RV printhead with blade shuttle linear guiding  | [front](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/E-RV/E-RV_Front.stl) [back](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/E-RV/E-RV_Back.stl) | [front](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/E-RV/E-RV_Front.step) [back](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/E-RV/E-RV_Back.step) |
-
-
 #### P-RPDV2
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="P-RPDV2_Front" src="https://github.com/user-attachments/assets/12312cef-ea5a-4f57-8c93-62cf0aa668e6" /> <img width="100" alt="P-RPDV2_Back" src="https://github.com/user-attachments/assets/5e2eb361-e8f2-40f8-964a-880e0bdca1bf" /> | Stock P-RPDV2 printhead with blade shuttle linear guiding  | [front](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/P-RPDV2/P-RPDV2_Front.stl) [back](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/P-RPDV2/P-RPDV2_Back.stl) | [front](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/P-RPDV2/P-RPDV2_Front.step) [back](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/P-RPDV2/P-RPDV2_Back.step) |
-
 #### P-DRG
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="P-DRG_Front" src="https://github.com/user-attachments/assets/900afa84-4165-4a2c-becd-abb6d53780e5" /> <img width="100" alt="P-DRG_Back" src="https://github.com/user-attachments/assets/e7910e98-b0cc-4afe-924f-38e42218f14a" /> | Stock P-DRG printhead with blade shuttle linear guiding  | [front](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/P-DRG/P-DRG_Front.stl) [back](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/P-DRG/P-DRG_Back.stl) | [front](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/P-DRG/P-DRG_Front.step) [back](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/P-DRG/P-DRG_Back.step) |
-
 ### Assembly
 
-
+blaa blah
 
 ---
 
@@ -71,21 +66,17 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 * 1 M2.5 x 5 x 3.5 heat set insert
 * 1 compression spring 5.5 x 17 mm ([from this sortiment](https://www.amazon.com/dp/B0DF21GRN1/ref=sr_1_1_sspa?__mk_de_DE=ÅMÅŽÕÑ&crid=2AKV6FXLFZY04&dib=eyJ2IjoiMSJ9.B9q0atkenJRq4xFEpuA6kf0xvpWVwtjE_6Jrg8n_wl6NHta9ITOqniu6mMLtZMFY2_GtR4F_p8Hx75KQDkPY7fpfaDna87tC5B3B3hsjJfN4gQ8lqOv1fjgLgXU953trXPpknKVWs0QRSiNBvWAiD5JjdxLaEr9TSl6Sqnwv4ecXGIxPsb15RojaRq2vxIcHnsdGiSbCrEg-Z74QEsWqzqf3JAr6EFOmu-LbFnp-Fyk.SwDMcXsodjg3r6qEAGHaBXy8vgAhajbzSszQWizHb5c&dib_tag=se&keywords=compression+spring&qid=1736647255&sprefix=compression+spring%2Caps%2C199&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 * 1 blade # 4 (cut or broken off at the end of the slot)
-
 ### Printed parts
-
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Blade%20Shuttle%20Parts/Shuttle.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Blade%20Shuttle%20Parts/Shuttle.step) |
-
 ### Assembly
 Beak off the blade #4 near the end of the slot, install the heat set insert in printed part and assemble as shown.
 Unfortunately the blade slot width is too small for a M3 screw to fit through, so M2.5 it must be.
 However, the pulley inner diameter is 3 mm. In order to keep the pulley centered either use something like a Brass tube OD 3 mm / ID 2.5 mm, L 3 mm or some heatshrink over the last 3 mm of the srew thread.
 Altertnatively a properly tightened countersunk head screw can be used  
-
-<img width="200" alt="Blade Shuttle Assembly Option 1" src="https://github.com/user-attachments/assets/db6b5380-9cc0-4790-899d-9d4d9be7db8c" />
-<img width="200" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
+<img width="300" alt="Blade Shuttle Assembly Option 1" src="https://github.com/user-attachments/assets/db6b5380-9cc0-4790-899d-9d4d9be7db8c" />
+<img width="300" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
 
 
 
