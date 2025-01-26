@@ -3,8 +3,7 @@
 With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position or movement which comes with quite a few advantages for multi material printing.
 The price to pay is a second PTFE tube coming out of the printhead which is more or less permanently attached to the bowden actuator.
 
----
- 
+--- 
 ## BLADE SHUTTLE
 ### Required hardware
 * 1 M2.5 x 8 screw +  Brass tube OD 3 mm / ID 2.5 mm, L 3 mm OR  1 M2.5 x 8 screw with heat shrink tube over the last 3 mm of the thread OR 1 M2.5 x 8 countersunk head screw
