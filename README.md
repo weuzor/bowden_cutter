@@ -28,6 +28,8 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 | <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | CW2 Front Body with ECAS, two 5.5 mm steel ball / D2F filament sensors and bowden cutter tube routing. Compatible with the new motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(new).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(new).step) |
 | <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | Same as above but compatible with the old motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).step) |
 
+### Assembly
+
 ---
 
 ## PRINTHEAD
@@ -55,9 +57,6 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 ### Assembly
 
 
-/Users/weuz/Desktop/BOWDEN_CUTTER/bowden_installation_cw2.png
-
-/Users/weuz/Desktop/BOWDEN_CUTTER/bowden_installation_g2e.png
 
 ---
 
