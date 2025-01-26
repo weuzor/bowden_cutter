@@ -5,37 +5,47 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 
 
  
+## BLADE SHUTTLE
+### Required hardware
+* 1 M2.5 x 8 screw +  Brass tube OD 3 mm / ID 2.5 mm, L 3 mm OR  1 M2.5 x 8 screw with heat shrink tube over the last 3 mm of the thread OR 1 M2.5 x 8 countersunk head screw
+* 1 M2.5 washer
+* 1 M2.5 x 5 x 3.5 heat set insert
+* 1 compression spring 5.5 x 17 mm ([from this sortiment](https://www.amazon.com/dp/B0DF21GRN1/ref=sr_1_1_sspa?__mk_de_DE=ÅMÅŽÕÑ&crid=2AKV6FXLFZY04&dib=eyJ2IjoiMSJ9.B9q0atkenJRq4xFEpuA6kf0xvpWVwtjE_6Jrg8n_wl6NHta9ITOqniu6mMLtZMFY2_GtR4F_p8Hx75KQDkPY7fpfaDna87tC5B3B3hsjJfN4gQ8lqOv1fjgLgXU953trXPpknKVWs0QRSiNBvWAiD5JjdxLaEr9TSl6Sqnwv4ecXGIxPsb15RojaRq2vxIcHnsdGiSbCrEg-Z74QEsWqzqf3JAr6EFOmu-LbFnp-Fyk.SwDMcXsodjg3r6qEAGHaBXy8vgAhajbzSszQWizHb5c&dib_tag=se&keywords=compression+spring&qid=1736647255&sprefix=compression+spring%2Caps%2C199&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+* 1 blade # 4 (cut or broken off at the end of the slot)
+### Printed parts
+| Picture | Description | STL | STEP |
+| :---: | :---: | :---: | :---: |
+| <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Blade%20Shuttle%20Parts/Shuttle.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Blade%20Shuttle%20Parts/Shuttle.step) |
+### Assembly
+Beak off the blade #4 near the end of the slot, install the heat set insert in printed part and assemble as shown.
+Unfortunately the blade slot width is too small for a M3 screw to fit through, so M2.5 it must be.
+However, the pulley inner diameter is 3 mm. In order to keep the pulley centered either use something like a Brass tube OD 3 mm / ID 2.5 mm, L 3 mm or some heatshrink over the last 3 mm of the srew thread.
+Altertnatively a properly tightened countersunk head screw can be used  
+<img width="300" alt="Blade Shuttle Assembly Option 1" src="https://github.com/user-attachments/assets/db6b5380-9cc0-4790-899d-9d4d9be7db8c" />
+<img width="300" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
 
+---
 ## EXTRUDER
-
 ### Required hardware
 * PTFE tube 2mm/4mm
 * PTFE Tube 1mm/2mm
 * Nylon coated stranded steel wire 0.6 mm diameter ([amazon](https://www.amazon.com/BENECREAT-120-Feet-0-024inch-7-Strand-Stainless/dp/B07V3S947N/ref=sr_1_1?crid=1BYTPFOE6298L&dib=eyJ2IjoiMSJ9.pXWOElTDcRCUMASCv9CG5wXzqwG73bFkvewBUseXkb4tqkT_feMtAnXleQMdtJwa1oJMVtIszDzXwfPblYfP64tjXdP9F0iR_1J98SfKH-j3-fo3k9ePpBVRJ0csdYJa9CZaTuUSf8O_wQcU24RNqQAZuUvfDrIYvizzCy__HNGWRK7X2O2HsMPVSKmtDl2pop2ThvJM-srOzA1oyOzmC4VnYbJhEU7rtQzXOn9QE80v0H_KpDV_ERNIVkvUmvCNSLtCG5sN_CnxIvamUS2CC-3Q7Xl_GcmsOA9o3AAR-lJFj4jYSLso0E3xXZg1NsyL5WdYJ2gr_x8npbPRsDBxN2HjJLR8NSTjabgi2uYDfdlkFbYhq287YNxPa0I8yPV1dDAeuAxmDDJxgkyBQxIXYs7bOJ3_x4oeutiirFGdfPy9Q2FBzmaN8RU3tMkjiLn7.D-khznNCXsM-Zj6h4FykYFTd3pSIbRoA7DrW9yir5Nc&dib_tag=se&keywords=steel%2Bwire%2B0.6%2Bmm%2Bbenecreat&qid=1736648346&sprefix=steel%2Bwire%2B0.6%2Bmm%2Bbenecreat%2Caps%2C184&sr=8-1&th=1))
-
- 
 ### Printed parts
-
 #### Galileo 2
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/37f58180-d7a9-494c-8c6e-711cfa0e8764" /> | G2E Front Body with two ball less filament sensors and bowden tube routing | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/G2E/G2E%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/G2E/G2E%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors.step) | 
-
 #### Clockwork 2
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/6d4e50ab-400f-4ecb-8292-1e488efb2b5d" /> | CW2 Front Body with ECAS, two 5.5 mm steel ball / D2F filament sensors and bowden cutter tube routing. Compatible with the new motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(new).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(new).step) |
 | <img width="100" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/33276c96-8997-4511-af02-54d02b0d76e8" /> | Same as above but compatible with the old motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2%20Front%20Body%20with%20bowden%20cutter%2C%20ECAS%20and%20sensors%20(old).step) |
-
 ### Assembly
-
 <img width="200" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
 
 <img width="200" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
 
-
 ---
-
 ## PRINTHEAD
 ### Required hardware
 * 1 M3 Nut
@@ -56,29 +66,6 @@ With the following modifications the Voron Stealthburner will be able to cut fil
 ### Assembly
 
 blaa blah
-
----
-
-## BLADE SHUTTLE
-### Required hardware
-* 1 M2.5 x 8 screw +  Brass tube OD 3 mm / ID 2.5 mm, L 3 mm OR  1 M2.5 x 8 screw with heat shrink tube over the last 3 mm of the thread OR 1 M2.5 x 8 countersunk head screw
-* 1 M2.5 washer
-* 1 M2.5 x 5 x 3.5 heat set insert
-* 1 compression spring 5.5 x 17 mm ([from this sortiment](https://www.amazon.com/dp/B0DF21GRN1/ref=sr_1_1_sspa?__mk_de_DE=ÅMÅŽÕÑ&crid=2AKV6FXLFZY04&dib=eyJ2IjoiMSJ9.B9q0atkenJRq4xFEpuA6kf0xvpWVwtjE_6Jrg8n_wl6NHta9ITOqniu6mMLtZMFY2_GtR4F_p8Hx75KQDkPY7fpfaDna87tC5B3B3hsjJfN4gQ8lqOv1fjgLgXU953trXPpknKVWs0QRSiNBvWAiD5JjdxLaEr9TSl6Sqnwv4ecXGIxPsb15RojaRq2vxIcHnsdGiSbCrEg-Z74QEsWqzqf3JAr6EFOmu-LbFnp-Fyk.SwDMcXsodjg3r6qEAGHaBXy8vgAhajbzSszQWizHb5c&dib_tag=se&keywords=compression+spring&qid=1736647255&sprefix=compression+spring%2Caps%2C199&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
-* 1 blade # 4 (cut or broken off at the end of the slot)
-### Printed parts
-| Picture | Description | STL | STEP |
-| :---: | :---: | :---: | :---: |
-| <img width="100" alt="Shuttle" src="https://github.com/user-attachments/assets/807fdf26-4689-4989-b387-cf6e7b295a66" /> | Blade shuttle  | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Blade%20Shuttle%20Parts/Shuttle.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Blade%20Shuttle%20Parts/Shuttle.step) |
-### Assembly
-Beak off the blade #4 near the end of the slot, install the heat set insert in printed part and assemble as shown.
-Unfortunately the blade slot width is too small for a M3 screw to fit through, so M2.5 it must be.
-However, the pulley inner diameter is 3 mm. In order to keep the pulley centered either use something like a Brass tube OD 3 mm / ID 2.5 mm, L 3 mm or some heatshrink over the last 3 mm of the srew thread.
-Altertnatively a properly tightened countersunk head screw can be used  
-<img width="300" alt="Blade Shuttle Assembly Option 1" src="https://github.com/user-attachments/assets/db6b5380-9cc0-4790-899d-9d4d9be7db8c" />
-<img width="300" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
-
-
 
 ---
 
