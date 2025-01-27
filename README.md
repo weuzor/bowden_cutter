@@ -101,7 +101,9 @@ blaa blah
 | <img width="100" alt="Wire_Puller" src="https://github.com/user-attachments/assets/b636efdd-fa4a-4a45-bc94-c9c16d2ef66e" /> | wire pulling servo attachment| [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Wire_Puller.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Wire_Puller.step) |
 ### Assembly
 <img width="200" alt="actuator_body" src="https://github.com/user-attachments/assets/d5922760-ac2b-4eee-b079-ff1ca9ba5038" />
-<img width="200" alt="actuator_servoy" src="https://github.com/user-attachments/assets/cfc251d8-1b10-43f8-864d-142b49984176" />
+<img width="200" alt="actuator_puller" src="https://github.com/user-attachments/assets/54071c3e-76d2-4f79-a27c-11835c298704" />
+<img width="200" alt="actuator_servoy" src="https://github.com/user-attachments/assets/6603d521-6a93-4eaa-b773-dcf1c5fdcd0b" />
+
 
 
 
