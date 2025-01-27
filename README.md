@@ -99,12 +99,17 @@ Assemble as usual insert the spring and the blade shuttle. Lubricate with a tiny
 | :---: | :---: | :---: | :---: |
 | <img width="100" alt="Servo_Frame_Mount" src="https://github.com/user-attachments/assets/0e193ddf-345c-4ca8-8349-a6c4eaba5648" /> | Actuator servo to frame mount | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount.step) |
 | <img width="100" alt="Servo_Frame_Mount_Mirrored" src="https://github.com/user-attachments/assets/6a947454-1792-4077-9af6-5da123a04a85" /> | Actuator servo to frame mount, mirrored   | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount_mirrored.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_mirrored.step) |
-| <img width="100" alt="Servo_Frame_Mount_Clamp_Insert" src="https://github.com/user-attachments/assets/c4f4a299-49c2-4280-9b61-5a2158216f7c" /> | Press fit extrusion slot clamp inserts for the actuator servo mount | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.step) |
-| <img width="100" alt="Wire_Puller" src="https://github.com/user-attachments/assets/b636efdd-fa4a-4a45-bc94-c9c16d2ef66e" /> | wire pulling servo attachment| [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Wire_Puller.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Wire_Puller.step) |
+| <img width="100" alt="Servo_Frame_Mount_Clamp_Insert" src="https://github.com/user-attachments/assets/c4f4a299-49c2-4280-9b61-5a2158216f7c" /> | clamp insert ( x2 ) | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.step) |
+| <img width="100" alt="Wire_Puller" src="https://github.com/user-attachments/assets/b636efdd-fa4a-4a45-bc94-c9c16d2ef66e" /> | wire puller servo attachment| [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Wire_Puller.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Wire_Puller.step) |
 ### Assembly
+* Press the ECAS collet and two clamp inserts into the servo mount body as shown
+* Install the two heat set inserts in the wire puller part and assemble as shown with the round servo horn which comes with the servo.
+* Combine everything as shown
 <img width="200" alt="actuator_body" src="https://github.com/user-attachments/assets/d5922760-ac2b-4eee-b079-ff1ca9ba5038" />
 <img width="200" alt="actuator_puller" src="https://github.com/user-attachments/assets/54071c3e-76d2-4f79-a27c-11835c298704" />
 <img width="200" alt="actuator_servoy" src="https://github.com/user-attachments/assets/6603d521-6a93-4eaa-b773-dcf1c5fdcd0b" />
+
+## FINAL STEPS
 <img width="200" alt="actuator_wire" src="https://github.com/user-attachments/assets/285d378b-fa9a-4ebf-b4ba-dc3898706fe0" />
 
 
