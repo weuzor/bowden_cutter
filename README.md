@@ -34,8 +34,8 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 ---
 ## EXTRUDER
 ### Required hardware
-* PTFE tube 2mm/4mm
-* PTFE Tube 1mm/2mm
+* PTFE tube 2mm/4mm ([amazon](https://www.amazon.com/Quickun-Teflon-Tubing-Printer-Length/dp/B08Q813BQV/ref=sr_1_3?crid=1R3J14UI2HSSZ&dib=eyJ2IjoiMSJ9.S_VpxsGc1zg6aRWr3AxoeBAf3HmhriQkxaPrURjIm19fUNdgjOuSV88yyRDn13jfGc-KFowX_gQBx3KJlyErb16wcQiwJOANSmfdUXMBtQMD5dOMtogpyb2nECOL0kZt6lXGe3abvwchYJEQ1fJlvJvXZIlnFkGkY4cCw4A2V1gnN0ct6xzFrNsVg1pD8BiY4BJd8zQe8kqLLALJZUWfRX78Lp720qSnAV27_03j8Nk.B13xI1TJrRLbN7JsXPVuJVxegMIvsJkswggzAE3v7W8&dib_tag=se&keywords=ptfe%2Btube%2B1mm%2B%2F%2B2mm&qid=1738015104&sprefix=ptfe%2Btube%2B1mm%2B%2F%2B2mm%2Caps%2C167&sr=8-3&th=1))
+* PTFE Tube 1mm/2mm ([amazon](https://www.amazon.com/Quickun-Teflon-Tubing-Printer-Length/dp/B08Q83XNTT/ref=sr_1_3?crid=1R3J14UI2HSSZ&dib=eyJ2IjoiMSJ9.S_VpxsGc1zg6aRWr3AxoeBAf3HmhriQkxaPrURjIm19fUNdgjOuSV88yyRDn13jfGc-KFowX_gQBx3KJlyErb16wcQiwJOANSmfdUXMBtQMD5dOMtogpyb2nECOL0kZt6lXGe3abvwchYJEQ1fJlvJvXZIlnFkGkY4cCw4A2V1gnN0ct6xzFrNsVg1pD8BiY4BJd8zQe8kqLLALJZUWfRX78Lp720qSnAV27_03j8Nk.B13xI1TJrRLbN7JsXPVuJVxegMIvsJkswggzAE3v7W8&dib_tag=se&keywords=ptfe%2Btube%2B1mm%2B%2F%2B2mm&qid=1738015104&sprefix=ptfe%2Btube%2B1mm%2B%2F%2B2mm%2Caps%2C167&sr=8-3&th=1))
 * Nylon coated stranded steel wire 0.6 mm diameter ([amazon](https://www.amazon.com/BENECREAT-120-Feet-0-024inch-7-Strand-Stainless/dp/B07V3S947N/ref=sr_1_1?crid=1BYTPFOE6298L&dib=eyJ2IjoiMSJ9.pXWOElTDcRCUMASCv9CG5wXzqwG73bFkvewBUseXkb4tqkT_feMtAnXleQMdtJwa1oJMVtIszDzXwfPblYfP64tjXdP9F0iR_1J98SfKH-j3-fo3k9ePpBVRJ0csdYJa9CZaTuUSf8O_wQcU24RNqQAZuUvfDrIYvizzCy__HNGWRK7X2O2HsMPVSKmtDl2pop2ThvJM-srOzA1oyOzmC4VnYbJhEU7rtQzXOn9QE80v0H_KpDV_ERNIVkvUmvCNSLtCG5sN_CnxIvamUS2CC-3Q7Xl_GcmsOA9o3AAR-lJFj4jYSLso0E3xXZg1NsyL5WdYJ2gr_x8npbPRsDBxN2HjJLR8NSTjabgi2uYDfdlkFbYhq287YNxPa0I8yPV1dDAeuAxmDDJxgkyBQxIXYs7bOJ3_x4oeutiirFGdfPy9Q2FBzmaN8RU3tMkjiLn7.D-khznNCXsM-Zj6h4FykYFTd3pSIbRoA7DrW9yir5Nc&dib_tag=se&keywords=steel%2Bwire%2B0.6%2Bmm%2Bbenecreat&qid=1736648346&sprefix=steel%2Bwire%2B0.6%2Bmm%2Bbenecreat%2Caps%2C184&sr=8-1&th=1))
 ### Printed parts
 #### Galileo 2
