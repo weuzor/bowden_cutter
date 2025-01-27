@@ -99,4 +99,10 @@ blaa blah
 | <img width="100" alt="Servo_Frame_Mount_Mirrored" src="https://github.com/user-attachments/assets/6a947454-1792-4077-9af6-5da123a04a85" /> | Actuator servo to frame mount, mirrored   | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount_mirrored.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_mirrored.step) |
 | <img width="100" alt="Servo_Frame_Mount_Clamp_Insert" src="https://github.com/user-attachments/assets/c4f4a299-49c2-4280-9b61-5a2158216f7c" /> | Press fit extrusion slot clamp inserts for the actuator servo mount | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Servo_Frame_Mount_Clamp_Insert_x2.step) |
 | <img width="100" alt="Wire_Puller" src="https://github.com/user-attachments/assets/b636efdd-fa4a-4a45-bc94-c9c16d2ef66e" /> | wire pulling servo attachment| [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Actuator%20Parts/Wire_Puller.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Actuator%20Parts/Wire_Puller.step) |
+### Assembly
+<img width="200" alt="actuator_body" src="https://github.com/user-attachments/assets/d5922760-ac2b-4eee-b079-ff1ca9ba5038" />
+<img width="200" alt="actuator_servoy" src="https://github.com/user-attachments/assets/cfc251d8-1b10-43f8-864d-142b49984176" />
+
+
+
 
