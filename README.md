@@ -56,7 +56,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 * Push the OD 2 mm PTFE from the top into the printed body until it is fully inserted. Might need a bit of persuasion here and there but is definitely doable. A drop of oil and a 2 steps forward one step back movement strategy helps. If you can insert the 0.6 mm wire from the opposite side without catching the on the PTFE tube edge you are there.
 * Slide the ID 2mm OD 4mm PTFE over the ID 1 mm OD 2mm PTFE tube and push firmly into its recess in the prited part.
 * Cut the inner PTFE tube flush with the outer tube
-* Push the 0.6 mm through the long hole at the bottom of the printed part and pull firmly to fully tighten the knot. Clip off the excess wire leaving about 1 mm.
+* Push the 0.6 mm wire through the long hole at the bottom of the printed part and pull firmly to fully tighten the knot. Clip off the excess wire leaving about 1 mm.
 * After a U-turn push the wire through the PTFE until it comes out the other end
 <img width="500" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
 <img width="500" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
