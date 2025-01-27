@@ -14,7 +14,7 @@ The price to pay is a second PTFE tube coming out of the printhead which is more
 ### Required hardware
 * 1 1 M2.5 x 8 countersunk head screw  -OR-  M2.5 x 8 screw + Brass tube OD 3 mm / ID 2.5 mm, L 3 mm 
 * 1 M2.5 washer
-* 1 M2.5 x 5 x 3.5 heat set insert
+* 1 M2.5 x 5 x 3.5 heat set insert ([from this sortiment](https://www.amazon.com/Threaded-Inserts-Assortment-Printing-Injection/dp/B0D49Y8J6M/ref=sr_1_32_sspa?crid=37N9WY18Y1Q59&dib=eyJ2IjoiMSJ9.IhC2XS8BWkmBeVWTnCF6LHlI6bbjIridYa900Ri9OL1xQQVtByy2Pq8GWeAglwM_ijbtKla2l07NH8vg2BESD1hA89qBw4X6IWKskARlL6zzCi0_OifI62FObqPf7ACnprQaeRiOTLDV5DMxxyXPfGPRIG4DHwIQeGXHi3N76v3tmVqy3i_n2O9OqzDZtH9r.kcEL0XpSwtg5Td_4TtDF3OsBxWow7K60BTEkWebAI9Q&dib_tag=se&keywords=M2.5+x+5+x+3.5&qid=1738014336&sprefix=m2.5+x+5+x+3.5%2Caps%2C324&sr=8-32-spons&xpid=_lenikuANp8ye&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1))
 * 1 compression spring 5.5 x 17 mm ([from this sortiment](https://www.amazon.com/dp/B0DF21GRN1/ref=sr_1_1_sspa?__mk_de_DE=ÅMÅŽÕÑ&crid=2AKV6FXLFZY04&dib=eyJ2IjoiMSJ9.B9q0atkenJRq4xFEpuA6kf0xvpWVwtjE_6Jrg8n_wl6NHta9ITOqniu6mMLtZMFY2_GtR4F_p8Hx75KQDkPY7fpfaDna87tC5B3B3hsjJfN4gQ8lqOv1fjgLgXU953trXPpknKVWs0QRSiNBvWAiD5JjdxLaEr9TSl6Sqnwv4ecXGIxPsb15RojaRq2vxIcHnsdGiSbCrEg-Z74QEsWqzqf3JAr6EFOmu-LbFnp-Fyk.SwDMcXsodjg3r6qEAGHaBXy8vgAhajbzSszQWizHb5c&dib_tag=se&keywords=compression+spring&qid=1736647255&sprefix=compression+spring%2Caps%2C199&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 * 1 Hobby knife blade # 4 (cut or broken off at the end of the slot)
 ### Printed parts
