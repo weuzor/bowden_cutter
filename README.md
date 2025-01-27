@@ -103,8 +103,7 @@ blaa blah
 <img width="200" alt="actuator_body" src="https://github.com/user-attachments/assets/d5922760-ac2b-4eee-b079-ff1ca9ba5038" />
 <img width="200" alt="actuator_puller" src="https://github.com/user-attachments/assets/54071c3e-76d2-4f79-a27c-11835c298704" />
 <img width="200" alt="actuator_servoy" src="https://github.com/user-attachments/assets/6603d521-6a93-4eaa-b773-dcf1c5fdcd0b" />
-
-
+<img width="678" alt="actuator_wire" src="https://github.com/user-attachments/assets/285d378b-fa9a-4ebf-b4ba-dc3898706fe0" />
 
 
 
