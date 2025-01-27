@@ -91,7 +91,8 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 ## ACTUATOR
 
 ### Required hardware
-* 1 [Miuzei 25kg Servo](https://www.amazon.com/Miuzei-Waterproof-Compatible-Steering-Horn（270°）/dp/B0C5LWHTQ1/ref=sr_1_5?crid=254V5NK70U1TP&dib=eyJ2IjoiMSJ9.xl7ViI1L6GDxIebmAsDF61VWxHk4vy3dKQsGj3yWRiow6rIHsWr-hCJJq2MChSZdLm2EW8oyL1CGCbhzLVqA37xbgqk7q_-EQPKaeXZnQrtgoqqqCbxr0edXhiQ99DqLxOY53BRdwveFjd_xQ7G-pjazJhOtquoRym5wxwGsYSW53pAzJ47Juz4mcgtmecpLFawmm-zQhzq-oVCSUDxEsT5AVQyspdXZ037AHSToy0ry5KTdt8k1xNMjOu8QURDPtXEOUJ7pM1_RW_Oe3tECVhvR9yOQvnF2xuiDYpgNAdQY0SMG53Dd9pQwI806n7N14eU5uBg6hX1Up48FrvA4UwjjvBBkob3e3FiaLPgM1c_OXOynWI7YpeuH7TSTQWJgPpPFJBhVM4bAy4Em7u-KrIW6PLZatGJwX-JE1Cfq5DMt4v7OoF-ipP2B5u3_qsCf.YCwDoNtW9hpVmma2qsNuQ-KsASJ6b93zRxl6tggoxIA&dib_tag=se&keywords=miuzei+25kg+servo&qid=1736648634&sprefix=miuzei+25%2Caps%2C233&sr=8-5) (or MG996R or similar) + supplied screws + round servo horn
+* 1 [[Miuzei 25kg Servo](https://www.amazon.com/Wishiot-DS3225MG-Digital-Waterproof-Crawler/dp/B0CHHZDZZL/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.4AqmHMdHVqaZ04sEMyv9xr64UKKEJXSTrwrZizh4QSxE9ihtOwTWwb9MCkNQoTA7-Lc6aEC18q3j9KSu0XxyQQGJmDKa3aJTIBF-FwUXdZsI0lHwk88WHbqDepTL4FzZSw75gcb7GrB2GhTFePTCixCY1HdNmcdg0drsff6p6YFnRTykoTV5yXKCn-7ADPXi5gfluGjdve_IoSG7OYRzs9AoE5Uu8pD3L9IPOZoh01HbsSDiC6hYbzLo-tqoOkoEDU8o1D4G_GpTyy_Ywjdsx39zkp__mwPhOfIoML8drzg.MWQY7TJeMoS6Y7vYG03V2luzZrfPNFG62p8IZ8gbMao&dib_tag=se&keywords=miuzei%2B25kg%2Bservo&qid=1738010369&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+   (or MG996R or similar) + supplied screws + round servo horn
 * 2 M3 x 4 x 5 heat set inserts
 * 2 M3 washer
 * 2 M3 x 5 screws
