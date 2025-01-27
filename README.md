@@ -91,7 +91,8 @@ blaa blah
 * 1 [Miuzei 25kg Servo](https://www.amazon.com/Miuzei-Waterproof-Compatible-Steering-Horn（270°）/dp/B0C5LWHTQ1/ref=sr_1_5?crid=254V5NK70U1TP&dib=eyJ2IjoiMSJ9.xl7ViI1L6GDxIebmAsDF61VWxHk4vy3dKQsGj3yWRiow6rIHsWr-hCJJq2MChSZdLm2EW8oyL1CGCbhzLVqA37xbgqk7q_-EQPKaeXZnQrtgoqqqCbxr0edXhiQ99DqLxOY53BRdwveFjd_xQ7G-pjazJhOtquoRym5wxwGsYSW53pAzJ47Juz4mcgtmecpLFawmm-zQhzq-oVCSUDxEsT5AVQyspdXZ037AHSToy0ry5KTdt8k1xNMjOu8QURDPtXEOUJ7pM1_RW_Oe3tECVhvR9yOQvnF2xuiDYpgNAdQY0SMG53Dd9pQwI806n7N14eU5uBg6hX1Up48FrvA4UwjjvBBkob3e3FiaLPgM1c_OXOynWI7YpeuH7TSTQWJgPpPFJBhVM4bAy4Em7u-KrIW6PLZatGJwX-JE1Cfq5DMt4v7OoF-ipP2B5u3_qsCf.YCwDoNtW9hpVmma2qsNuQ-KsASJ6b93zRxl6tggoxIA&dib_tag=se&keywords=miuzei+25kg+servo&qid=1736648634&sprefix=miuzei+25%2Caps%2C233&sr=8-5) (or MG996R or similar) + supplied screws + round servo horn
 * 2 M3 x 4 x 5 heat set inserts
 * 2 M3 x 5 screws
-* * 1 ECAS Collet
+* 4 M2 x 8 Tapping screws
+* 1 ECAS Collet (rubber part removed)
 ### Printed parts
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
