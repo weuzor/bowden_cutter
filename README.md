@@ -81,7 +81,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 | <img width="100" alt="P-DRG_Front" src="https://github.com/user-attachments/assets/900afa84-4165-4a2c-becd-abb6d53780e5" /> <img width="100" alt="P-DRG_Back" src="https://github.com/user-attachments/assets/e7910e98-b0cc-4afe-924f-38e42218f14a" /> | Stock P-DRG printhead with blade shuttle linear guiding  | [front](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/P-DRG/P-DRG_Front.stl) [back](https://github.com/weuzor/bowden_cutter/blob/main/STL/Printhead%20Parts/P-DRG/P-DRG_Back.stl) | [front](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/P-DRG/P-DRG_Front.step) [back](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Printhead%20Parts/P-DRG/P-DRG_Back.step) |
 ### Assembly
 
-*  Assemble as usual. Don't forget the ptfe tube. including the place the 
+*  Assemble as usual. Don't forget the ptfe tube before inserting the M3 nut. 
 *  Check that the spring followed by the blade shuttle can be inserted into the guide and moves smoothly.
 *  Optionally lubricate the contact surfaces with a tiny amount of petroleum jelly.
 *  Remove blade shuttle and spring and store for later
