@@ -4,12 +4,10 @@
 
 With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position and and without generating any forces to the xy belts.
 The price to pay is a second PTFE tube coming out of the printhead which is more or less permanently attached to the bowden actuator.
-
 <img width="400" alt="toolhead_CW2" src="https://github.com/user-attachments/assets/51eff1ab-1d54-44e3-b260-746bf7f76ad4" />
 <img width="400" alt="toolhead_G2E" src="https://github.com/user-attachments/assets/98eed216-c57a-49ed-b12f-e91e23c47bbf" />
 
 ---
-
 ## BLADE SHUTTLE
 ### Required hardware
 * 1 1 M2.5 x 8 countersunk head screw  -OR-  M2.5 x 8 screw + Brass tube OD 3 mm / ID 2.5 mm, L 3 mm 
@@ -32,7 +30,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 <img width="300" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
 
 ---
-## EXTRUDER
+## EXTRUDER MODIFICATION
 ### Required hardware
 * PTFE tube 2mm/4mm ([amazon](https://www.amazon.com/Quickun-Teflon-Tubing-Printer-Length/dp/B08Q813BQV/ref=sr_1_3?crid=1R3J14UI2HSSZ&dib=eyJ2IjoiMSJ9.S_VpxsGc1zg6aRWr3AxoeBAf3HmhriQkxaPrURjIm19fUNdgjOuSV88yyRDn13jfGc-KFowX_gQBx3KJlyErb16wcQiwJOANSmfdUXMBtQMD5dOMtogpyb2nECOL0kZt6lXGe3abvwchYJEQ1fJlvJvXZIlnFkGkY4cCw4A2V1gnN0ct6xzFrNsVg1pD8BiY4BJd8zQe8kqLLALJZUWfRX78Lp720qSnAV27_03j8Nk.B13xI1TJrRLbN7JsXPVuJVxegMIvsJkswggzAE3v7W8&dib_tag=se&keywords=ptfe%2Btube%2B1mm%2B%2F%2B2mm&qid=1738015104&sprefix=ptfe%2Btube%2B1mm%2B%2F%2B2mm%2Caps%2C167&sr=8-3&th=1))
 * PTFE Tube 1mm/2mm ([amazon](https://www.amazon.com/Quickun-Teflon-Tubing-Printer-Length/dp/B08Q83XNTT/ref=sr_1_3?crid=1R3J14UI2HSSZ&dib=eyJ2IjoiMSJ9.S_VpxsGc1zg6aRWr3AxoeBAf3HmhriQkxaPrURjIm19fUNdgjOuSV88yyRDn13jfGc-KFowX_gQBx3KJlyErb16wcQiwJOANSmfdUXMBtQMD5dOMtogpyb2nECOL0kZt6lXGe3abvwchYJEQ1fJlvJvXZIlnFkGkY4cCw4A2V1gnN0ct6xzFrNsVg1pD8BiY4BJd8zQe8kqLLALJZUWfRX78Lp720qSnAV27_03j8Nk.B13xI1TJrRLbN7JsXPVuJVxegMIvsJkswggzAE3v7W8&dib_tag=se&keywords=ptfe%2Btube%2B1mm%2B%2F%2B2mm&qid=1738015104&sprefix=ptfe%2Btube%2B1mm%2B%2F%2B2mm%2Caps%2C167&sr=8-3&th=1))
@@ -60,6 +58,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 * After a U-turn push the wire through the PTFE until it comes out the other end
 <img width="500" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
 <img width="500" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
+* Complete the CW2/G2E extruder with the modified body part
 
 ---
 ## PRINTHEAD
@@ -116,5 +115,11 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 ## FINAL STEPS
 <img width="200" alt="actuator_wire" src="https://github.com/user-attachments/assets/285d378b-fa9a-4ebf-b4ba-dc3898706fe0" />
 
-
+* Assemble the toolhead with the modified extruder and printhead.
+* Run the bowden wire through the actuator hole and insert the ptfe tubes in the ecas collet
+* Insert the blade shuttle, place the wire loop around the pulley
+* Loosen the wire clamp bolts and route the wire on the servo as shown.
+* Tighten the wire so that the blade shuttle is flush with the guiding edge and the servo is approximately in the position shown
+* Tighten the wire clamp bolts
+* Check by turning the servo by hand 
 
