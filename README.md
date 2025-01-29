@@ -12,6 +12,7 @@ The modification consists of 4 components: a modified __extruder front body__, a
 
 
 The modified extruder front body for the CW2 is based on [this design](https://www.printables.com/model/466692-stealthburner-cw2-filament-sensors-with-ecas-latch/files) with two 5.5mm steelball/microswitch filament sensors
+
 The modified extruder front body for the G2E are based of [this design](https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod) with two DF2-L3-D3 microswitch filament sensors
 
 
