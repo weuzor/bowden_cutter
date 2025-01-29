@@ -1,6 +1,6 @@
-# Bowden Filament cutter for Voron Stealthburner
+# Bowden Filament Cutter for the Voron Stealthburner
 
-This toolhead integrated filament cutter cuts filament similar to the filametrix cutter, on which it is based on, but uses a different approach for actuation by means of an external high torque servo which is connected to the toolhead via a bowden cable.
+This toolhead integrated filament cutter cuts filament similar to the [filametrix mod](https://github.com/sorted01/Filametrix), on which it is based on, but uses a different approach for actuation by means of an external high torque servo which is connected to the toolhead via a bowden cable.
 This way the cutting process is independent of toolhead position/movement and does not induce any forces to the printer kinematics.
 
 <img width="200" alt="toolhead_CW2" src="https://github.com/user-attachments/assets/51eff1ab-1d54-44e3-b260-746bf7f76ad4" />
@@ -19,7 +19,7 @@ The modified extruder front body for the CW2 is based on [this design](https://w
 
 The modified extruder front body for the G2E is based on [this design](https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod) with ECAS and two DF2-L3-D3 microswitch filament sensors
 
-The printheads are based on the original voron printheads and the filametrix mod.
+The printheads are based on the [original voron design printheads](https://vorondesign.com/voron_stealthburner) and the filametrix mod.
 
 
 
