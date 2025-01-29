@@ -113,6 +113,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 
 ## FINAL STEPS
 <img width="200" alt="actuator_wire" src="https://github.com/user-attachments/assets/285d378b-fa9a-4ebf-b4ba-dc3898706fe0" />
+<img width="200" alt="shuttle_pos" src="https://github.com/user-attachments/assets/45f206ec-e55d-49cf-a1fb-1d73ee3a89b3" />
 
 * Assemble the toolhead with the modified extruder and printhead.
 * Run the bowden wire through the actuator hole and insert the ptfe tubes in the ecas collet
