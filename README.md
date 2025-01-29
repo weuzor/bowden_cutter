@@ -1,11 +1,17 @@
 # Bowden Filament cutter for Voron Stealthburner
 
-This toolhead integrated filament cutter cuts filament much like the filametrix mod but uses a different approach for actuation by means of an external high torque servo  connected to the toolhead via a bowden cable.
+This toolhead integrated filament cutter cuts filament similar to the filametrix cutter, on which it is based on, but uses a different approach for actuation by means of an external high torque servo which is connected to the toolhead via a bowden cable.
 This way the cutting process is independent of toolhead position/movement and does not induce any forces to the printer kinematics.
 
 <img width="200" alt="toolhead_CW2" src="https://github.com/user-attachments/assets/51eff1ab-1d54-44e3-b260-746bf7f76ad4" />
 <img width="200" alt="toolhead_G2E" src="https://github.com/user-attachments/assets/98eed216-c57a-49ed-b12f-e91e23c47bbf" />
 <img width="200" alt="actuator" src="https://github.com/user-attachments/assets/a0ac36f2-673f-483e-953d-081e40a675ca" />
+
+
+The modification consists of a modified _extruder front body_, a modified _printhead_ as well as a _blade shuttle_ and the _external actuator_ which can be clamped to the printer top frame extrusion.
+
+The modified extruder front bodies (available for Clockwork 2 and Galileo 2) with integrated bowden tube path also have both filament sensors.
+
 
 ---
 ## BLADE SHUTTLE
