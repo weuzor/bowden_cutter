@@ -3,6 +3,7 @@
 
 
 With the following modifications the Voron Stealthburner will be able to cut filament independent of toolhead position and and without generating any forces to the xy belts.
+
 The price to pay is a second PTFE tube coming out of the printhead which is more or less permanently attached to the bowden actuator.
 
 <img width="300" alt="toolhead_CW2" src="https://github.com/user-attachments/assets/51eff1ab-1d54-44e3-b260-746bf7f76ad4" />
