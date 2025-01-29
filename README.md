@@ -3,8 +3,9 @@
 This toolhead integrated filament cutter cuts filament much like the filametrix mod but uses a different approach for actuation by means of an external high torque servo  connected to the toolhead via a bowden cable.
 This way the cutting process is not depentent on toolhead position or movement and does not induce any forces on the xy belts/steppers.
 
-<img width="300" alt="toolhead_CW2" src="https://github.com/user-attachments/assets/51eff1ab-1d54-44e3-b260-746bf7f76ad4" />
-<img width="300" alt="toolhead_G2E" src="https://github.com/user-attachments/assets/98eed216-c57a-49ed-b12f-e91e23c47bbf" />
+<img width="200" alt="toolhead_CW2" src="https://github.com/user-attachments/assets/51eff1ab-1d54-44e3-b260-746bf7f76ad4" />
+<img width="200" alt="toolhead_G2E" src="https://github.com/user-attachments/assets/98eed216-c57a-49ed-b12f-e91e23c47bbf" />
+<img width="200" alt="actuator" src="https://github.com/user-attachments/assets/a0ac36f2-673f-483e-953d-081e40a675ca" />
 
 ---
 ## BLADE SHUTTLE
