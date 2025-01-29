@@ -8,12 +8,12 @@ This way the cutting process is independent of toolhead position/movement and do
 <img width="200" alt="actuator" src="https://github.com/user-attachments/assets/a0ac36f2-673f-483e-953d-081e40a675ca" />
 
 ---
-The modification consists of 4 components: a modified __extruder front body__, a modified __printhead__ as well as a __blade shuttle__ and the __external actuator__ which can be clamped to the printer top frame extrusion.
+The modification consists of 4 components: a __modified extruder front body__ with bowden cable routing, a __modified printhead__ with linear guiding, as well as a __blade shuttle__ and the __external actuator__ which can be clamped to the printer top frame extrusion.
 
 
 The modified extruder front body for the CW2 is based on [this design](https://www.printables.com/model/466692-stealthburner-cw2-filament-sensors-with-ecas-latch/files) with ECAS and two 5.5mm steelball/microswitch filament sensors
 
-The modified extruder front body for the G2E are based of [this design](https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod) with ECAS and two DF2-L3-D3 microswitch filament sensors
+The modified extruder front body for the G2E is based on [this design](https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod) with ECAS and two DF2-L3-D3 microswitch filament sensors
 
 
 extruder are based on this design with filament for filament sensors.
