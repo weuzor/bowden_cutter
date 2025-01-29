@@ -8,15 +8,20 @@ This way the cutting process is independent of toolhead position/movement and do
 <img width="200" alt="actuator" src="https://github.com/user-attachments/assets/a0ac36f2-673f-483e-953d-081e40a675ca" />
 
 ---
-The modification consists of 4 components: a __modified extruder front body__ with bowden cable routing, a __modified printhead__ with linear guiding, as well as a __blade shuttle__ and the __external actuator__ which can be clamped to the printer top frame extrusion.
+The modification consists of 4 components: a __modified extruder front body__ with bowden cable routing, a __modified printhead__ with shuttle guiding, the __blade shuttle__ and an __external actuator__ which can be clamped to the printer top frame extrusion.
 
+
+## Underlying designs
+
+Because a filament cutter is only useful for multi material printing and multi material printing is very little fun without ecas and filament sensors the following desings were used as a base instead of the original CW2 or G2E parts:
 
 The modified extruder front body for the CW2 is based on [this design](https://www.printables.com/model/466692-stealthburner-cw2-filament-sensors-with-ecas-latch/files) with ECAS and two 5.5mm steelball/microswitch filament sensors
 
 The modified extruder front body for the G2E is based on [this design](https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod) with ECAS and two DF2-L3-D3 microswitch filament sensors
 
+The printheads are based on the original voron printheads and the filametrix mod.
 
-extruder are based on this design with filament for filament sensors.
+
 
 
 
@@ -77,6 +82,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 ## PRINTHEAD
 ### Required hardware
 * 1 M3 Nut
+* Filament path PTFE Tube
 ### Printed parts
 #### E-RV
 | Picture | Description | STL | STEP |
