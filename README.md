@@ -85,6 +85,12 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 *  Optionally lubricate the contact surfaces with a tiny amount of petroleum jelly.
 *  Remove blade shuttle and spring and store for later
 
+
+<img width="200" alt="shuttle_insert" src="https://github.com/user-attachments/assets/2a024b0f-e332-44d9-b8a5-d60f1ee4a10f" />
+<img width="200" alt="shuttle_inserted" src="https://github.com/user-attachments/assets/743af695-8908-4491-90c2-b63257692f08" />
+<img width="200" alt="shuttle_cut_pos" src="https://github.com/user-attachments/assets/c7732227-5de3-47bd-b79d-d00c3ea9141c" />
+
+
 ---
 
 ## ACTUATOR
