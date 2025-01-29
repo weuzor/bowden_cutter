@@ -8,8 +8,7 @@ This way the cutting process is independent of toolhead position/movement and do
 <img width="200" alt="actuator" src="https://github.com/user-attachments/assets/a0ac36f2-673f-483e-953d-081e40a675ca" />
 
 
-The modification consists of 4 components:
-a modified _extruder front body_, a modified _printhead_ as well as a _blade shuttle_ and the _external actuator_ which can be clamped to the printer top frame extrusion.
+The modification consists of 4 components: a modified __extruder front body__, a modified __printhead__ as well as a __blade shuttle__ and the __external actuator__ which can be clamped to the printer top frame extrusion.
 
 The modified extruder front bodies (available for Clockwork 2 and Galileo 2) with integrated bowden tube path also have both filament sensors.
 
