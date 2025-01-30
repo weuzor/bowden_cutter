@@ -43,8 +43,10 @@ The printheads are based on the [original voron design printheads](https://voron
 * Assemble as shown.
   Note: Unfortunately the blade slot width is too small for a M3 screw to fit through, so M2.5 it has to be. However, the pulley inner diameter is 3 mm. In order to keep the pulley centered either use something like a brass tube OD 3 mm / ID 2.5 mm, L 3 mm or some heatshrink over the last 3 mm of the screw thread.
 Altertnatively, a well tightened countersunk head screw can also be used.
-<img width="300" alt="Blade Shuttle Assembly Option 1" src="https://github.com/user-attachments/assets/db6b5380-9cc0-4790-899d-9d4d9be7db8c" />
-<img width="300" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
+<img width="200" alt="Blade Shuttle Assembly Option 1" src="https://github.com/user-attachments/assets/db6b5380-9cc0-4790-899d-9d4d9be7db8c" />
+<img width="200" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
+<img width="200" alt="blade_shuttle_and_spring" src="https://github.com/user-attachments/assets/ffe18d68-5cea-42b8-bd15-451c5dcee94c" />
+
 
 ---
 ## Extruder 
