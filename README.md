@@ -26,7 +26,7 @@ The printheads are based on the [original voron design printheads](https://voron
 
 ---
 # Modification Steps
-## BLADE SHUTTLE
+## __Blade Shuttle__
 ### Required hardware
 * 1 1 M2.5 x 8 countersunk head screw  -OR-  M2.5 x 8 screw + Brass tube OD 3 mm / ID 2.5 mm, L 3 mm 
 * 1 M2.5 washer
@@ -48,7 +48,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 <img width="300" alt="Blade Shuttle Assembly Option 2" src="https://github.com/user-attachments/assets/238e395d-fdba-479d-b0bf-4a419ff798be" />
 
 ---
-## EXTRUDER MODIFICATION
+## Extruder 
 ### Required hardware
 * PTFE tube 2mm/4mm ([amazon](https://www.amazon.com/Quickun-Teflon-Tubing-Printer-Length/dp/B08Q813BQV/ref=sr_1_3?crid=1R3J14UI2HSSZ&dib=eyJ2IjoiMSJ9.S_VpxsGc1zg6aRWr3AxoeBAf3HmhriQkxaPrURjIm19fUNdgjOuSV88yyRDn13jfGc-KFowX_gQBx3KJlyErb16wcQiwJOANSmfdUXMBtQMD5dOMtogpyb2nECOL0kZt6lXGe3abvwchYJEQ1fJlvJvXZIlnFkGkY4cCw4A2V1gnN0ct6xzFrNsVg1pD8BiY4BJd8zQe8kqLLALJZUWfRX78Lp720qSnAV27_03j8Nk.B13xI1TJrRLbN7JsXPVuJVxegMIvsJkswggzAE3v7W8&dib_tag=se&keywords=ptfe%2Btube%2B1mm%2B%2F%2B2mm&qid=1738015104&sprefix=ptfe%2Btube%2B1mm%2B%2F%2B2mm%2Caps%2C167&sr=8-3&th=1))
 * PTFE Tube 1mm/2mm ([amazon](https://www.amazon.com/Quickun-Teflon-Tubing-Printer-Length/dp/B08Q83XNTT/ref=sr_1_3?crid=1R3J14UI2HSSZ&dib=eyJ2IjoiMSJ9.S_VpxsGc1zg6aRWr3AxoeBAf3HmhriQkxaPrURjIm19fUNdgjOuSV88yyRDn13jfGc-KFowX_gQBx3KJlyErb16wcQiwJOANSmfdUXMBtQMD5dOMtogpyb2nECOL0kZt6lXGe3abvwchYJEQ1fJlvJvXZIlnFkGkY4cCw4A2V1gnN0ct6xzFrNsVg1pD8BiY4BJd8zQe8kqLLALJZUWfRX78Lp720qSnAV27_03j8Nk.B13xI1TJrRLbN7JsXPVuJVxegMIvsJkswggzAE3v7W8&dib_tag=se&keywords=ptfe%2Btube%2B1mm%2B%2F%2B2mm&qid=1738015104&sprefix=ptfe%2Btube%2B1mm%2B%2F%2B2mm%2Caps%2C167&sr=8-3&th=1))
