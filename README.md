@@ -13,7 +13,7 @@ The modification consists of 4 components: a __modified extruder front body__ wi
 
 ## Underlying designs
 
-Because a filament cutter is only useful for multi material printing and multi material printing is very little fun without ecas and filament sensors the following desings were used as a base instead of the original CW2 or G2E parts:
+Because a filament cutter is only useful for multi material printing and multi material printing is very little fun without ecas and filament sensors the following desings were used as a base instead of the original CW2 or [G2E](https://github.com/JaredC01/Galileo2) parts:
 
 The modified extruder front body for the CW2 is based on [this design](https://www.printables.com/model/466692-stealthburner-cw2-filament-sensors-with-ecas-latch/files) with ECAS and two 5.5mm steelball/microswitch filament sensors
 
