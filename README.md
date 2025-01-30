@@ -7,7 +7,7 @@ This way the cutting process is independent of toolhead position/movement and do
 <img width="200" alt="toolhead_G2E" src="https://github.com/user-attachments/assets/98eed216-c57a-49ed-b12f-e91e23c47bbf" />
 <img width="200" alt="actuator" src="https://github.com/user-attachments/assets/a0ac36f2-673f-483e-953d-081e40a675ca" />
 
----
+
 The modification consists of 4 components: a __modified extruder front body__ with bowden cable routing, a __modified printhead__ with shuttle guiding, the __blade shuttle__ and an __external actuator__ which can be clamped to the printer top frame extrusion.
 
 
@@ -24,7 +24,7 @@ The printheads are based on the [original voron design printheads](https://voron
 
 
 
-
+---
 ---
 ## BLADE SHUTTLE
 ### Required hardware
