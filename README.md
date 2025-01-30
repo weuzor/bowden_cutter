@@ -25,7 +25,7 @@ The printheads are based on the [original voron design printheads](https://voron
 
 
 ---
----
+# Modifications
 ## BLADE SHUTTLE
 ### Required hardware
 * 1 1 M2.5 x 8 countersunk head screw  -OR-  M2.5 x 8 screw + Brass tube OD 3 mm / ID 2.5 mm, L 3 mm 
