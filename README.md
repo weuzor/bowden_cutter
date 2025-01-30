@@ -145,9 +145,9 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 <img width="200" alt="shuttle_pos" src="https://github.com/user-attachments/assets/45f206ec-e55d-49cf-a1fb-1d73ee3a89b3" />
 
 * Assemble the toolhead with the modified extruder and printhead
-* Run the bowden wire through the actuator hole and insert the ptfe tubes in the ecas collet
+* Run the bowden wire through the actuator hole and insert the ptfe tubes into the ecas collet
 * Insert the blade shuttle and place the wire loop around the pulley
-* Loosen the wire clamp bolts and route the wire on the servo as shown
+* Loosen the wire clamp bolts and route the wire on the actuator servo as shown
 * Adjust the wire so that the blade shuttle is flush with the guiding edge and the servo is approximately in the position shown
 * Tighten the wire clamp bolts
 
