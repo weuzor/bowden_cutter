@@ -148,6 +148,8 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 * Run the bowden wire through the actuator hole and insert the ptfe tubes into the ecas collet
 * Insert the blade shuttle and place the wire loop around the pulley
 * Loosen the wire clamp bolts and route the wire on the actuator servo as shown
-* Adjust the wire so that the blade shuttle is flush with the guiding edge and the servo is approximately in the position shown (at servo angle 90)
+* Adjust the wire so that the blade shuttle is flush with the guiding edge and the servo is approximately in the position shown (servo angle 90 deg)
 * Tighten the wire clamp bolts
+
+
 
