@@ -4,9 +4,7 @@
 <img width="200" alt="toolhead_CW2" src="https://github.com/user-attachments/assets/51eff1ab-1d54-44e3-b260-746bf7f76ad4" />
 <img width="200" alt="toolhead_G2E" src="https://github.com/user-attachments/assets/98eed216-c57a-49ed-b12f-e91e23c47bbf" />
 <img width="200" alt="actuator" src="https://github.com/user-attachments/assets/a0ac36f2-673f-483e-953d-081e40a675ca" />
-
 # 
-
 This toolhead integrated filament cutter cuts filament similar to the [filametrix mod](https://github.com/sorted01/Filametrix), on which it is based on, but uses a different approach for actuation by means of an external high torque servo which is connected to the toolhead via a bowden cable.
 This way the cutting process is independent of toolhead position/movement and does not induce any forces to the printer kinematics.
 
@@ -149,7 +147,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 * Run the bowden wire through the actuator hole and insert the ptfe tubes into the ecas collet
 * Insert the blade shuttle and place the wire loop around the pulley
 * Loosen the wire clamp bolts and route the wire on the actuator servo as shown
-* Adjust the wire so that the blade shuttle is flush with the guiding edge and the servo is approximately in the position shown (servo angle 90 deg)
+* Adjust the wire length so that the blade shuttle is flush with the printhead edge and the servo is approximately in the shown position (servo angle 90 deg)
 * Tighten the wire clamp bolts
 
 
