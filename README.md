@@ -9,7 +9,7 @@
 This toolhead integrated filament cutter cuts filament similar to the [filametrix mod](https://github.com/sorted01/Filametrix), on which it is based on, but uses a different approach for actuation by means of an external high torque servo which is connected to the toolhead via a bowden cable.
 This way the cutting process is independent of toolhead position/movement and does not induce any forces to the printer kinematics.
 
-The modification consists of 4 components: a __modified extruder front body__ with bowden cable routing, a __modified printhead__ with shuttle guiding, the __blade shuttle__ and an __external actuator__ which can be clamped to the printer top frame extrusion.
+The modification consists of 4 components: a __modified extruder front body__ with bowden cable routing, a __modified printhead__ with shuttle guiding, the __blade shuttle__ and an __external actuator__ which can be clamped to the printer frame extrusions.
 
 
 ## Underlying designs
