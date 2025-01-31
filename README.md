@@ -29,6 +29,7 @@ The printheads are based on the [original voron design printheads](https://voron
 # Modification Steps
 ## __Blade Shuttle__
 ### Required hardware
+* 1 [ID 3 x 10 x 3 mm V-Groove Bearing](https://www.amazon.com/Atoplee-3x10x3mm-603VV-Groove-Bearings/dp/B0191I4UU2/ref=sr_1_3?crid=144OG5RS855RQ&dib=eyJ2IjoiMSJ9.mrEt9I1UqIiOuWrEH5YhCtw7eSiIj3BJY1ERlS7qMZYBm4F7BR77bywRA2RKzA6pOuv-iEsmjQ0ztewyvq1LfbGmRYdDwDGrlDRlKRygTiJ5LppiQeL3T_C6_7eR0gzQabn-PX2flqK8z4l_D-ABezJ0InUYtu96bgfy8sgNW2So3pft-zeVH6scui8fGYFbJ32vOz6YZVLCzRxXSQY6oLToennecodWFsqMVICKwuI.jYywOA16bapkbsYEVzsdyqeZvgXNYHbvygkg1QdUzIk&dib_tag=se&keywords=bearing+3x10x3+v+groove&qid=1738349937&sprefix=bearing+3x10x3+v+groov%2Caps%2C174&sr=8-3)
 * 1 M2.5 x 8 countersunk head screw  -OR-  M2.5 x 8 screw + Brass tube OD 3 mm / ID 2.5 mm, L 3 mm 
 * 1 M2.5 washer
 * 1 M2.5 x 5 x 3.5 heat set insert ([from this sortiment](https://www.amazon.com/Threaded-Inserts-Assortment-Printing-Injection/dp/B0D49Y8J6M/ref=sr_1_32_sspa?crid=37N9WY18Y1Q59&dib=eyJ2IjoiMSJ9.IhC2XS8BWkmBeVWTnCF6LHlI6bbjIridYa900Ri9OL1xQQVtByy2Pq8GWeAglwM_ijbtKla2l07NH8vg2BESD1hA89qBw4X6IWKskARlL6zzCi0_OifI62FObqPf7ACnprQaeRiOTLDV5DMxxyXPfGPRIG4DHwIQeGXHi3N76v3tmVqy3i_n2O9OqzDZtH9r.kcEL0XpSwtg5Td_4TtDF3OsBxWow7K60BTEkWebAI9Q&dib_tag=se&keywords=M2.5+x+5+x+3.5&qid=1738014336&sprefix=m2.5+x+5+x+3.5%2Caps%2C324&sr=8-32-spons&xpid=_lenikuANp8ye&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1))
