@@ -68,6 +68,7 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 * PTFE Tube 1mm/2mm ([amazon](https://www.amazon.com/Quickun-Teflon-Tubing-Printer-Length/dp/B08Q83XNTT/ref=sr_1_3?crid=1R3J14UI2HSSZ&dib=eyJ2IjoiMSJ9.S_VpxsGc1zg6aRWr3AxoeBAf3HmhriQkxaPrURjIm19fUNdgjOuSV88yyRDn13jfGc-KFowX_gQBx3KJlyErb16wcQiwJOANSmfdUXMBtQMD5dOMtogpyb2nECOL0kZt6lXGe3abvwchYJEQ1fJlvJvXZIlnFkGkY4cCw4A2V1gnN0ct6xzFrNsVg1pD8BiY4BJd8zQe8kqLLALJZUWfRX78Lp720qSnAV27_03j8Nk.B13xI1TJrRLbN7JsXPVuJVxegMIvsJkswggzAE3v7W8&dib_tag=se&keywords=ptfe%2Btube%2B1mm%2B%2F%2B2mm&qid=1738015104&sprefix=ptfe%2Btube%2B1mm%2B%2F%2B2mm%2Caps%2C167&sr=8-3&th=1))
 * Nylon coated stranded steel wire 0.6 mm diameter ([amazon](https://www.amazon.com/BENECREAT-120-Feet-0-024inch-7-Strand-Stainless/dp/B07V3S947N/ref=sr_1_1?crid=1BYTPFOE6298L&dib=eyJ2IjoiMSJ9.pXWOElTDcRCUMASCv9CG5wXzqwG73bFkvewBUseXkb4tqkT_feMtAnXleQMdtJwa1oJMVtIszDzXwfPblYfP64tjXdP9F0iR_1J98SfKH-j3-fo3k9ePpBVRJ0csdYJa9CZaTuUSf8O_wQcU24RNqQAZuUvfDrIYvizzCy__HNGWRK7X2O2HsMPVSKmtDl2pop2ThvJM-srOzA1oyOzmC4VnYbJhEU7rtQzXOn9QE80v0H_KpDV_ERNIVkvUmvCNSLtCG5sN_CnxIvamUS2CC-3Q7Xl_GcmsOA9o3AAR-lJFj4jYSLso0E3xXZg1NsyL5WdYJ2gr_x8npbPRsDBxN2HjJLR8NSTjabgi2uYDfdlkFbYhq287YNxPa0I8yPV1dDAeuAxmDDJxgkyBQxIXYs7bOJ3_x4oeutiirFGdfPy9Q2FBzmaN8RU3tMkjiLn7.D-khznNCXsM-Zj6h4FykYFTd3pSIbRoA7DrW9yir5Nc&dib_tag=se&keywords=steel%2Bwire%2B0.6%2Bmm%2Bbenecreat&qid=1736648346&sprefix=steel%2Bwire%2B0.6%2Bmm%2Bbenecreat%2Caps%2C184&sr=8-1&th=1))
 * 2 M1.6 x 3 Screws
+* Appropriate wires and connectors for the toolhead board
 ### Printed parts
 #### Galileo 2
 | Picture | Description | STL | STEP |
@@ -89,6 +90,8 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 * Cut the inner PTFE tube flush with the outer tube
 * Push the 0.6 mm wire through the long hole at the bottom of the printed part and pull firmly to fully tighten the knot. Clip off the excess wire leaving about 1 mm.
 * After a U-turn push the wire through the PTFE until it comes out the other end
+* Route the cables along the cable path as shown and insert approx. 2mm of tinned wire into each hole in the limit stop and press downward.
+* Screw in the two M1.6 screws into the two holes (above the wires) in the limit stop as shown. Check for continuity with a Multimeter (screw head to end of wire).
 * Complete the extruder with the modified body part
 <img width="300" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
 <img width="300" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
