@@ -29,8 +29,10 @@ Allthough still working this is not nice to look at and also results in unnecess
 To fix this a limit stop for the blade shuttle has been added to the extruder parts. This limit stop also acts as a "sensor" which closes when the cut is complete.
 Also, when cutting hard filament, the wire puller part of the actuator gets damaged (cut by the thin wire) by the thin wire. Therefore reinforcement screws have been added.
 
-
+Before:
 https://github.com/user-attachments/assets/2ef3fe31-b55a-4e68-ab35-1ae4be9e5d9d
+
+After:
 https://github.com/user-attachments/assets/6c915074-667b-457e-bb91-5009137e85ce
 
 
