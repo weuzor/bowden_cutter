@@ -26,9 +26,9 @@ The printheads are based on the [original voron design printheads](https://voron
 
 The original design worked fine, but when cutting harder filaments the required pulling force caused the blade shuttle to tilt when the spring was fully compressed.
 Allthough still working this is not nice to look at and also results in unnecessary forces trying to push the extruder to the left and the printhead to the right.
-To fix this a limit stop for the blade shuttle has been added to the extruder parts. This limit stop also acts as a "sensor" which closes when the cut is complete.
+To fix this a limit stop for the blade shuttle has been added to the extruder parts. This limit stop also acts as a switch which closes when the blade shuttle pulley bearing touches the limit stop.
 
-Also, when cutting hard filament, the wire puller part of the actuator gets damaged after a while of use (sliced in half by the thin wire).
+After some time of use, the wire puller part of the actuator gets sliced in half by the thin wire.
 Printing that part 100% infill helps, but to fix this issue for good the new part has two additional reinforcement screws. Also, some knurling has been added for more comfortable turning by hand.
 
 Before:
