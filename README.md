@@ -30,6 +30,10 @@ To fix this a limit stop for the blade shuttle has been added to the extruder pa
 Also, when cutting hard filament, the wire puller part of the actuator gets damaged (cut by the thin wire) by the thin wire. Therefore reinforcement screws have been added.
 
 
+https://github.com/user-attachments/assets/2ef3fe31-b55a-4e68-ab35-1ae4be9e5d9d
+
+
+
 ---
 # Modification Steps
 ## __Blade Shuttle__
