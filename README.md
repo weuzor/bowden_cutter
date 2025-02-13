@@ -5,7 +5,7 @@
 <img width="200" alt="toolhead_G2E" src="https://github.com/user-attachments/assets/98eed216-c57a-49ed-b12f-e91e23c47bbf" />
 <img width="200" alt="actuator" src="https://github.com/user-attachments/assets/a0ac36f2-673f-483e-953d-081e40a675ca" />
 
-# 
+## Introduction
 This toolhead integrated filament cutter cuts filament similar to the [filametrix mod](https://github.com/sorted01/Filametrix), on which it is based on, but uses a different approach for actuation by means of an external high torque servo which is connected to the toolhead via a bowden cable.
 This way the cutting process is independent of toolhead position/movement and does not introduce any forces to the printer kinematics.
 
@@ -22,7 +22,12 @@ The modified extruder front body for the G2E is based on [this design](https://g
 
 The printheads are based on the [original voron design printheads](https://vorondesign.com/voron_stealthburner) and the filametrix mod.
 
+## Recent Changes
 
+The original design worked fine, but when cutting harder filaments the required pulling force caused the blade shuttle to tilt when the spring was fully compressed.
+Allthough still working this is not nice to look at and also results in unnecessary forces trying to push the extruder to the left and the printhead to the right.
+To fix this a limit stop for the blade shuttle has been added to the extruder parts. This limit stop also acts as a "sensor" which closes when the cut is complete.
+Also, when cutting hard filament, the wire puller part of the actuator gets damaged (cut by the thin wire) by the thin wire. Therefore reinforcement screws have been added.
 
 
 ---
