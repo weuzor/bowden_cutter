@@ -61,12 +61,12 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 #### Galileo 2
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="200" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/b586abdd-91f1-4f26-bc0d-28a4453b21db" /> | G2E Front Body with two ball less filament sensors, bowden tube routing, ECAS, cutter endstop | stl | step | 
+| <img width="200" alt="G2E_Front_Body" src="https://github.com/user-attachments/assets/b586abdd-91f1-4f26-bc0d-28a4453b21db" /> | G2E Front Body with two ball less filament sensors, bowden tube routing, ECAS, cutter endstop | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/G2E/G2E_Front_Body.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/G2E/G2E_Front_Body.step) | 
 #### Clockwork 2
 | Picture | Description | STL | STEP |
 | :---: | :---: | :---: | :---: |
-| <img width="200" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/01b24885-97a2-4376-a4f6-a0f549d33356" /> | CW2 Front Body (new motor plate) with two filament sensors, bowden tube routing, ECAS, cutter endstop | stl | step |
-| <img width="200" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/0be7a897-4f9f-4f70-8ebc-cd91dcf4e384" /> | Same as above but compatible with the old motor plate | stl | step |
+| <img width="200" alt="CW2 Front Body (new)" src="https://github.com/user-attachments/assets/01b24885-97a2-4376-a4f6-a0f549d33356" /> | CW2 Front Body (new motor plate) with two filament sensors, bowden tube routing, ECAS, cutter endstop | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2_Front_Body_new_motorplate.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2_Front_Body_new_motorplate.step) |
+| <img width="200" alt="CW2 Front Body (old)" src="https://github.com/user-attachments/assets/0be7a897-4f9f-4f70-8ebc-cd91dcf4e384" /> | Same as above but compatible with the old motor plate | [stl](https://github.com/weuzor/bowden_cutter/blob/main/STL/Extruder%20Parts/CW2/CW2_Front_Body_old_motorplate.stl) | [step](https://github.com/weuzor/bowden_cutter/blob/main/CAD/Extruder%20Parts/CW2/CW2_Front_Body_old_motorplate.step) |
 ### Assembly
 * Cut the 2mm/4mm PTFE tube to the required length for the installation (depending on printer size and where the actuator will be located).
 * Cut the 1mm/2mm PTFE tube approximately 10 cm longer than the 2mm/4mm tube
