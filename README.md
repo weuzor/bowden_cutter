@@ -81,6 +81,8 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 * Complete the extruder with the modified body part
 <img width="300" alt="bowden_installation_cw2" src="https://github.com/user-attachments/assets/132a8e65-78a3-4f40-8ac7-77b1851f4673" />
 <img width="300" alt="bowden_installation_g2e" src="https://github.com/user-attachments/assets/daf4e99b-cb09-4b16-b12f-eaf5a2dc0a12" />
+<img width="300" alt="cut_sensor_inst" src="https://github.com/user-attachments/assets/d13eb39e-dd16-4df5-88e7-a9adbdb015e4" />
+<img width="300" alt="cut_sensor" src="https://github.com/user-attachments/assets/3debba23-c78c-47de-ba56-253c560cbdb4" />
 
 
 ---
