@@ -29,7 +29,7 @@ Allthough still working this is not nice to look at and also results in unnecess
 To fix this a limit stop for the blade shuttle has been added to the extruder parts. This limit stop also acts as a "sensor" which closes when the cut is complete.
 
 Also, when cutting hard filament, the wire puller part of the actuator gets damaged after a while of use (sliced in half by the thin wire).
-Printing that part 100% infill help, but to fix this issue for good the new part has two additional reinforcement screws and.
+Printing that part 100% infill helps, but to fix this issue for good the new part has two additional reinforcement screws. Also, some knurling has been added for more comfortable turning by hand.
 
 Before:
 https://github.com/user-attachments/assets/2ef3fe31-b55a-4e68-ab35-1ae4be9e5d9d
