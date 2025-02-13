@@ -31,7 +31,7 @@ Also, when cutting hard filament, the wire puller part of the actuator gets dama
 
 
 https://github.com/user-attachments/assets/2ef3fe31-b55a-4e68-ab35-1ae4be9e5d9d
-
+https://github.com/user-attachments/assets/6c915074-667b-457e-bb91-5009137e85ce
 
 
 ---
