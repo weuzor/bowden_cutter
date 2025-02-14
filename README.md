@@ -138,9 +138,10 @@ Altertnatively, a well tightened countersunk head screw can also be used.
 
 ### Required hardware
 * 1 [Miuzei 25kg Servo](https://www.amazon.com/Miuzei-Waterproof-Compatible-Steering-Horn（270°）/dp/B0C5LTKBD4/ref=sr_1_8?crid=1RKYBOP2MC3X5&dib=eyJ2IjoiMSJ9.5BsLf39L1mf4c0ZP7ihNfBcTucSXzqrylZ5wPm1FCZv5wywgXEZg8dzhwaeOFhQKoNJWUU3jyFHMdI_3LbyACR33Kmu10v0dFclbm8f5Wi29QDhH9nP2OV--_QzTVKYJtExh0ru4tfxeGZCQR1O45u62ZbZ7vDu3kLlgaTb16AaTpBTvtNuceMTKtBs_AoUUucpRz8daa88bTl0jgQc3zPhm-HagKRoHf3OntGky96HSfhzFnBvgk_47v8lISK_yfMscdNapOXOrRZh-QcGOnMjBkn3Q2Z7BgruQQfZQg2Dosnl2Lo9nXBHNfwN3vcMU5GP0gaHs4a_NLZ4IQaibOTazYqvwFS1RVYBUXIoopTEp9_zGB0G0D4ItZ_uS9RlO99e3KistSzl-Ztef1v2GcOVwoBLVwRXQxPFw_HdreqIyc5iuHV7sSS0DYl1A8Qrn._j4nZ8dHQSZ3S-M3PkTiq-Yw1uM0tN85bQJuZTc3dog&dib_tag=se&keywords=miuzei&qid=1738536290&sprefix=miuzei%2Caps%2C181&sr=8-8&th=1) (or similar) + supplied screws + round servo horn
-* 2 M3 x 4 x 5 heat set inserts
-* 2 M3 washer
+* 4 M3 x 4 x 5 heat set inserts
+* 4 M3 washer
 * 2 M3 x 5 screws
+* 2 M3 x 12 screws
 * 4 M2 x 8 Tapping screws
 * 1 ECAS Collet (rubber part removed)
 ### Printed parts
